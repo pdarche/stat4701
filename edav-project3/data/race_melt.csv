@@ -1,0 +1,1366 @@
+borough,neighborhood,id,race,estimate
+Brooklyn,Brooklyn Heights-Cobble Hill                                   ,BK09,HspE,1866.0
+Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beac                  ,BK17,HspE,4562.0
+Brooklyn,Brighton Beach                                                 ,BK19,HspE,4334.0
+Brooklyn,Seagate-Coney Island                                           ,BK21,HspE,6108.0
+Brooklyn,West Brighton                                                  ,BK23,HspE,121.0
+Brooklyn,Homecrest                                                      ,BK25,HspE,3237.0
+Brooklyn,Gravesend                                                      ,BK26,HspE,3850.0
+Brooklyn,Bath Beach                                                     ,BK27,HspE,3862.0
+Brooklyn,Bensonhurst West                                               ,BK28,HspE,13024.0
+Brooklyn,Bensonhurst East                                               ,BK29,HspE,7047.0
+Brooklyn,Dyker Heights                                                  ,BK30,HspE,4580.0
+Brooklyn,Bay Ridge                                                      ,BK31,HspE,13923.0
+Brooklyn,Sunset Park West                                               ,BK32,HspE,35424.0
+Brooklyn,Carroll Gardens-Columbia Street-Red Hook                       ,BK33,HspE,8558.0
+Brooklyn,Sunset Park East                                               ,BK34,HspE,23465.0
+Brooklyn,Stuyvesant Heights                                             ,BK35,HspE,13702.0
+Brooklyn,Park Slope-Gowanus                                             ,BK37,HspE,12938.0
+Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum H                  ,BK38,HspE,8609.0
+Brooklyn,Windsor Terrace                                                ,BK40,HspE,3054.0
+Brooklyn,Kensington-Ocean Parkway                                       ,BK41,HspE,5264.0
+Brooklyn,Flatbush                                                       ,BK42,HspE,18893.0
+Brooklyn,Midwood                                                        ,BK43,HspE,3643.0
+Brooklyn,Madison                                                        ,BK44,HspE,2645.0
+Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basi                  ,BK45,HspE,4524.0
+Brooklyn,Ocean Parkway South                                            ,BK46,HspE,1698.0
+Brooklyn,Canarsie                                                       ,BK50,HspE,6749.0
+Brooklyn,Flatlands                                                      ,BK58,HspE,5494.0
+Brooklyn,Prospect Lefferts Gardens-Wingate                              ,BK60,HspE,6841.0
+Brooklyn,Crown Heights North                                            ,BK61,HspE,11836.0
+Brooklyn,Crown Heights South                                            ,BK63,HspE,3729.0
+Brooklyn,Prospect Heights                                               ,BK64,HspE,2806.0
+Brooklyn,Fort Greene                                                    ,BK68,HspE,5560.0
+Brooklyn,Clinton Hill                                                   ,BK69,HspE,5856.0
+Brooklyn,Williamsburg                                                   ,BK72,HspE,3071.0
+Brooklyn,North Side-South Side                                          ,BK73,HspE,19017.0
+Brooklyn,Bedford                                                        ,BK75,HspE,13086.0
+Brooklyn,Greenpoint                                                     ,BK76,HspE,4433.0
+Brooklyn,Bushwick North                                                 ,BK77,HspE,46692.0
+Brooklyn,Bushwick South                                                 ,BK78,HspE,44553.0
+Brooklyn,Ocean Hill                                                     ,BK79,HspE,5492.0
+Brooklyn,Brownsville                                                    ,BK81,HspE,10095.0
+Brooklyn,East New York                                                  ,BK82,HspE,25455.0
+Brooklyn,Cypress Hills-City Line                                        ,BK83,HspE,28370.0
+Brooklyn,East New York (Pennsylvania Ave)                               ,BK85,HspE,9046.0
+Brooklyn,Borough Park                                                   ,BK88,HspE,11245.0
+Brooklyn,East Williamsburg                                              ,BK90,HspE,10966.0
+Brooklyn,East Flatbush-Farragut                                         ,BK91,HspE,3072.0
+Brooklyn,Starrett City                                                  ,BK93,HspE,2909.0
+Brooklyn,Erasmus                                                        ,BK95,HspE,2756.0
+Brooklyn,Rugby-Remsen Village                                           ,BK96,HspE,2626.0
+Brooklyn,park-cemetery-etc-Brooklyn                                     ,BK99,HspE,
+Bronx,Claremont-Bathgate                                             ,BX01,HspE,17463.0
+Bronx,Eastchester-Edenwald-Baychester                                ,BX03,HspE,8548.0
+Bronx,Bedford Park-Fordham North                                     ,BX05,HspE,37105.0
+Bronx,Belmont                                                        ,BX06,HspE,15245.0
+Bronx,Bronxdale                                                      ,BX07,HspE,17493.0
+Bronx,West Farms-Bronx River                                         ,BX08,HspE,23347.0
+Bronx,Soundview-Castle Hill-Clason Point-Harding Pa                  ,BX09,HspE,32878.0
+Bronx,Pelham Bay-Country Club-City Island                            ,BX10,HspE,8865.0
+Bronx,Co-Op City                                                     ,BX13,HspE,13621.0
+Bronx,East Concourse-Concourse Village                               ,BX14,HspE,37329.0
+Bronx,East Tremont                                                   ,BX17,HspE,29613.0
+Bronx,North Riverdale-Fieldston-Riverdale                            ,BX22,HspE,4796.0
+Bronx,Highbridge                                                     ,BX26,HspE,24097.0
+Bronx,Hunts Point                                                    ,BX27,HspE,21027.0
+Bronx,Van Cortlandt Village                                          ,BX28,HspE,32676.0
+Bronx,Spuyten Duyvil-Kingsbridge                                     ,BX29,HspE,10722.0
+Bronx,Kingsbridge Heights                                            ,BX30,HspE,21175.0
+Bronx,Allerton-Pelham Gardens                                        ,BX31,HspE,10353.0
+Bronx,Longwood                                                       ,BX33,HspE,19323.0
+Bronx,Melrose South-Mott Haven North                                 ,BX34,HspE,26460.0
+Bronx,Morrisania-Melrose                                             ,BX35,HspE,23505.0
+Bronx,University Heights-Morris Heights                              ,BX36,HspE,35605.0
+Bronx,Van Nest-Morris Park-Westchester Square                        ,BX37,HspE,16490.0
+Bronx,Mott Haven-Port Morris                                         ,BX39,HspE,37821.0
+Bronx,Fordham South                                                  ,BX40,HspE,19247.0
+Bronx,Mount Hope                                                     ,BX41,HspE,36046.0
+Bronx,Norwood                                                        ,BX43,HspE,24139.0
+Bronx,Williamsbridge-Olinville                                       ,BX44,HspE,14164.0
+Bronx,Parkchester                                                    ,BX46,HspE,10269.0
+Bronx,Pelham Parkway                                                 ,BX49,HspE,11749.0
+Bronx,Schuylerville-Throgs Neck-Edgewater Park                       ,BX52,HspE,19099.0
+Bronx,Soundview-Bruckner                                             ,BX55,HspE,22588.0
+Bronx,Westchester-Unionport                                          ,BX59,HspE,17581.0
+Bronx,Woodlawn-Wakefield                                             ,BX62,HspE,7638.0
+Bronx,West Concourse                                                 ,BX63,HspE,27518.0
+Bronx,Crotona Park East                                              ,BX75,HspE,13872.0
+Bronx,Rikers Island                                                  ,BX98,HspE,3159.0
+Bronx,park-cemetery-etc-Bronx                                        ,BX99,HspE,
+Manhattan,Marble Hill-Inwood                                             ,MN01,HspE,37338.0
+Manhattan,Central Harlem North-Polo Grounds                              ,MN03,HspE,18948.0
+Manhattan,Hamilton Heights                                               ,MN04,HspE,24926.0
+Manhattan,Manhattanville                                                 ,MN06,HspE,13726.0
+Manhattan,Morningside Heights                                            ,MN09,HspE,13046.0
+Manhattan,Central Harlem South                                           ,MN11,HspE,8457.0
+Manhattan,Upper West Side                                                ,MN12,HspE,19938.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,HspE,10710.0
+Manhattan,Lincoln Square                                                 ,MN14,HspE,5797.0
+Manhattan,Clinton                                                        ,MN15,HspE,8409.0
+Manhattan,Midtown-Midtown South                                          ,MN17,HspE,2121.0
+Manhattan,Turtle Bay-East Midtown                                        ,MN19,HspE,3553.0
+Manhattan,Murray Hill-Kips Bay                                           ,MN20,HspE,5306.0
+Manhattan,Gramercy                                                       ,MN21,HspE,1797.0
+Manhattan,East Village                                                   ,MN22,HspE,4927.0
+Manhattan,West Village                                                   ,MN23,HspE,3898.0
+Manhattan,SoHo-TriBeCa-Civic Center-Little Italy                         ,MN24,HspE,2401.0
+Manhattan,Battery Park City-Lower Manhattan                              ,MN25,HspE,3880.0
+Manhattan,Chinatown                                                      ,MN27,HspE,5977.0
+Manhattan,Lower East Side                                                ,MN28,HspE,29885.0
+Manhattan,Lenox Hill-Roosevelt Island                                    ,MN31,HspE,5784.0
+Manhattan,Yorkville                                                      ,MN32,HspE,7651.0
+Manhattan,East Harlem South                                              ,MN33,HspE,25635.0
+Manhattan,East Harlem North                                              ,MN34,HspE,29093.0
+Manhattan,Washington Heights North                                       ,MN35,HspE,47731.0
+Manhattan,Washington Heights South                                       ,MN36,HspE,64601.0
+Manhattan,Upper East Side-Carnegie Hill                                  ,MN40,HspE,3110.0
+Manhattan,Stuyvesant Town-Cooper Village                                 ,MN50,HspE,1655.0
+Manhattan,park-cemetery-etc-Manhattan                                    ,MN99,HspE,
+Queens,South Jamaica                                                  ,QN01,HspE,6740.0
+Queens,Springfield Gardens North                                      ,QN02,HspE,2189.0
+Queens,Springfield Gardens South-Brookville                           ,QN03,HspE,1475.0
+Queens,Rosedale                                                       ,QN05,HspE,2097.0
+Queens,Jamaica Estates-Holliswood                                     ,QN06,HspE,3473.0
+Queens,Hollis                                                         ,QN07,HspE,2287.0
+Queens,St. Albans                                                     ,QN08,HspE,3681.0
+Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad                  ,QN10,HspE,3456.0
+Queens,Hammels-Arverne-Edgemere                                       ,QN12,HspE,9260.0
+Queens,Far Rockaway-Bayswater                                         ,QN15,HspE,12915.0
+Queens,Forest Hills                                                   ,QN17,HspE,11025.0
+Queens,Rego Park                                                      ,QN18,HspE,5015.0
+Queens,Glendale                                                       ,QN19,HspE,11256.0
+Queens,Ridgewood                                                      ,QN20,HspE,35589.0
+Queens,Middle Village                                                 ,QN21,HspE,5985.0
+Queens,Flushing                                                       ,QN22,HspE,10937.0
+Queens,College Point                                                  ,QN23,HspE,9292.0
+Queens,Corona                                                         ,QN25,HspE,34214.0
+Queens,North Corona                                                   ,QN26,HspE,44775.0
+Queens,East Elmhurst                                                  ,QN27,HspE,15544.0
+Queens,Jackson Heights                                                ,QN28,HspE,58627.0
+Queens,Elmhurst                                                       ,QN29,HspE,37502.0
+Queens,Maspeth                                                        ,QN30,HspE,7772.0
+Queens,Hunters Point-Sunnyside-West Maspeth                           ,QN31,HspE,20575.0
+Queens,Cambria Heights                                                ,QN33,HspE,863.0
+Queens,Queens Village                                                 ,QN34,HspE,10343.0
+Queens,Briarwood-Jamaica Hills                                        ,QN35,HspE,10648.0
+Queens,Kew Gardens Hills                                              ,QN37,HspE,5184.0
+Queens,Pomonok-Flushing Heights-Hillcrest                             ,QN38,HspE,6387.0
+Queens,Fresh Meadows-Utopia                                           ,QN41,HspE,2279.0
+Queens,Oakland Gardens                                                ,QN42,HspE,1977.0
+Queens,Bellerose                                                      ,QN43,HspE,5212.0
+Queens,Glen Oaks-Floral Park-New Hyde Park                            ,QN44,HspE,1784.0
+Queens,Douglas Manor-Douglaston-Little Neck                           ,QN45,HspE,2731.0
+Queens,Bayside-Bayside Hills                                          ,QN46,HspE,6297.0
+Queens,Ft. Totten-Bay Terrace-Clearview                               ,QN47,HspE,2138.0
+Queens,Auburndale                                                     ,QN48,HspE,2509.0
+Queens,Whitestone                                                     ,QN49,HspE,5008.0
+Queens,Elmhurst-Maspeth                                               ,QN50,HspE,7425.0
+Queens,Murray Hill                                                    ,QN51,HspE,7898.0
+Queens,East Flushing                                                  ,QN52,HspE,4241.0
+Queens,Woodhaven                                                      ,QN53,HspE,33286.0
+Queens,Richmond Hill                                                  ,QN54,HspE,21993.0
+Queens,South Ozone Park                                               ,QN55,HspE,17046.0
+Queens,Ozone Park                                                     ,QN56,HspE,8919.0
+Queens,Lindenwood-Howard Beach                                        ,QN57,HspE,5495.0
+Queens,Kew Gardens                                                    ,QN60,HspE,5920.0
+Queens,Jamaica                                                        ,QN61,HspE,20859.0
+Queens,Queensboro Hill                                                ,QN62,HspE,3862.0
+Queens,Woodside                                                       ,QN63,HspE,15325.0
+Queens,Laurelton                                                      ,QN66,HspE,1239.0
+Queens,Queensbridge-Ravenswood-Long Island City                       ,QN68,HspE,7847.0
+Queens,Astoria                                                        ,QN70,HspE,20390.0
+Queens,Old Astoria                                                    ,QN71,HspE,8694.0
+Queens,Steinway                                                       ,QN72,HspE,10036.0
+Queens,Baisley Park                                                   ,QN76,HspE,4597.0
+Queens,Airport                                                        ,QN98,HspE,
+Queens,park-cemetery-etc-Queens                                       ,QN99,HspE,
+Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville                     ,SI01,HspE,1951.0
+Staten Island,New Springville-Bloomfield-Travis                              ,SI05,HspE,5251.0
+Staten Island,Westerleigh                                                    ,SI07,HspE,3326.0
+Staten Island,Grymes Hill-Clifton-Fox Hills                                  ,SI08,HspE,5856.0
+Staten Island,Charleston-Richmond Valley-Tottenville                         ,SI11,HspE,3069.0
+Staten Island,Mariner's Harbor-Arlington-Port Ivory-Granite                  ,SI12,HspE,11075.0
+Staten Island,Grasmere-Arrochar-Ft. Wadsworth                                ,SI14,HspE,1796.0
+Staten Island,West New Brighton-New Brighton-St. George                      ,SI22,HspE,9560.0
+Staten Island,Todt Hill-Emerson Hill-Heartland Village-Ligh                  ,SI24,HspE,3307.0
+Staten Island,Oakwood-Oakwood Beach                                          ,SI25,HspE,2546.0
+Staten Island,Port Richmond                                                  ,SI28,HspE,5909.0
+Staten Island,Rossville-Woodrow                                              ,SI32,HspE,1506.0
+Staten Island,New Brighton-Silver Lake                                       ,SI35,HspE,4809.0
+Staten Island,Old Town-Dongan Hills-South Beach                              ,SI36,HspE,3563.0
+Staten Island,Stapleton-Rosebank                                             ,SI37,HspE,8410.0
+Staten Island,New Dorp-Midland Beach                                         ,SI45,HspE,3236.0
+Staten Island,Arden Heights                                                  ,SI48,HspE,2829.0
+Staten Island,Great Kills                                                    ,SI54,HspE,4025.0
+Staten Island,park-cemetery-etc-Staten Island                                ,SI99,HspE,
+Brooklyn,Brooklyn Heights-Cobble Hill                                   ,BK09,WtNHE,18242.0
+Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beac                  ,BK17,WtNHE,44000.0
+Brooklyn,Brighton Beach                                                 ,BK19,WtNHE,22463.0
+Brooklyn,Seagate-Coney Island                                           ,BK21,WtNHE,8668.0
+Brooklyn,West Brighton                                                  ,BK23,WtNHE,14894.0
+Brooklyn,Homecrest                                                      ,BK25,WtNHE,34130.0
+Brooklyn,Gravesend                                                      ,BK26,WtNHE,15333.0
+Brooklyn,Bath Beach                                                     ,BK27,WtNHE,15487.0
+Brooklyn,Bensonhurst West                                               ,BK28,WtNHE,41020.0
+Brooklyn,Bensonhurst East                                               ,BK29,WtNHE,29363.0
+Brooklyn,Dyker Heights                                                  ,BK30,WtNHE,23047.0
+Brooklyn,Bay Ridge                                                      ,BK31,WtNHE,55443.0
+Brooklyn,Sunset Park West                                               ,BK32,WtNHE,9673.0
+Brooklyn,Carroll Gardens-Columbia Street-Red Hook                       ,BK33,WtNHE,23681.0
+Brooklyn,Sunset Park East                                               ,BK34,WtNHE,9030.0
+Brooklyn,Stuyvesant Heights                                             ,BK35,WtNHE,3082.0
+Brooklyn,Park Slope-Gowanus                                             ,BK37,WtNHE,48759.0
+Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum H                  ,BK38,WtNHE,16231.0
+Brooklyn,Windsor Terrace                                                ,BK40,WtNHE,14580.0
+Brooklyn,Kensington-Ocean Parkway                                       ,BK41,WtNHE,18637.0
+Brooklyn,Flatbush                                                       ,BK42,WtNHE,23509.0
+Brooklyn,Midwood                                                        ,BK43,WtNHE,39121.0
+Brooklyn,Madison                                                        ,BK44,WtNHE,28405.0
+Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basi                  ,BK45,WtNHE,34585.0
+Brooklyn,Ocean Parkway South                                            ,BK46,WtNHE,17032.0
+Brooklyn,Canarsie                                                       ,BK50,WtNHE,4626.0
+Brooklyn,Flatlands                                                      ,BK58,WtNHE,12245.0
+Brooklyn,Prospect Lefferts Gardens-Wingate                              ,BK60,WtNHE,7747.0
+Brooklyn,Crown Heights North                                            ,BK61,WtNHE,11928.0
+Brooklyn,Crown Heights South                                            ,BK63,WtNHE,10616.0
+Brooklyn,Prospect Heights                                               ,BK64,WtNHE,10694.0
+Brooklyn,Fort Greene                                                    ,BK68,WtNHE,7720.0
+Brooklyn,Clinton Hill                                                   ,BK69,WtNHE,14036.0
+Brooklyn,Williamsburg                                                   ,BK72,WtNHE,27650.0
+Brooklyn,North Side-South Side                                          ,BK73,WtNHE,25584.0
+Brooklyn,Bedford                                                        ,BK75,WtNHE,20867.0
+Brooklyn,Greenpoint                                                     ,BK76,WtNHE,24479.0
+Brooklyn,Bushwick North                                                 ,BK77,WtNHE,7001.0
+Brooklyn,Bushwick South                                                 ,BK78,WtNHE,7720.0
+Brooklyn,Ocean Hill                                                     ,BK79,WtNHE,619.0
+Brooklyn,Brownsville                                                    ,BK81,WtNHE,576.0
+Brooklyn,East New York                                                  ,BK82,WtNHE,1481.0
+Brooklyn,Cypress Hills-City Line                                        ,BK83,WtNHE,2557.0
+Brooklyn,East New York (Pennsylvania Ave)                               ,BK85,WtNHE,288.0
+Brooklyn,Borough Park                                                   ,BK88,WtNHE,80550.0
+Brooklyn,East Williamsburg                                              ,BK90,WtNHE,15788.0
+Brooklyn,East Flatbush-Farragut                                         ,BK91,WtNHE,825.0
+Brooklyn,Starrett City                                                  ,BK93,WtNHE,3404.0
+Brooklyn,Erasmus                                                        ,BK95,WtNHE,418.0
+Brooklyn,Rugby-Remsen Village                                           ,BK96,WtNHE,724.0
+Brooklyn,park-cemetery-etc-Brooklyn                                     ,BK99,WtNHE,
+Bronx,Claremont-Bathgate                                             ,BX01,WtNHE,320.0
+Bronx,Eastchester-Edenwald-Baychester                                ,BX03,WtNHE,1144.0
+Bronx,Bedford Park-Fordham North                                     ,BX05,WtNHE,4312.0
+Bronx,Belmont                                                        ,BX06,WtNHE,5475.0
+Bronx,Bronxdale                                                      ,BX07,WtNHE,4501.0
+Bronx,West Farms-Bronx River                                         ,BX08,WtNHE,758.0
+Bronx,Soundview-Castle Hill-Clason Point-Harding Pa                  ,BX09,WtNHE,704.0
+Bronx,Pelham Bay-Country Club-City Island                            ,BX10,WtNHE,15769.0
+Bronx,Co-Op City                                                     ,BX13,WtNHE,3831.0
+Bronx,East Concourse-Concourse Village                               ,BX14,WtNHE,1094.0
+Bronx,East Tremont                                                   ,BX17,WtNHE,740.0
+Bronx,North Riverdale-Fieldston-Riverdale                            ,BX22,WtNHE,17687.0
+Bronx,Highbridge                                                     ,BX26,WtNHE,300.0
+Bronx,Hunts Point                                                    ,BX27,WtNHE,471.0
+Bronx,Van Cortlandt Village                                          ,BX28,WtNHE,5504.0
+Bronx,Spuyten Duyvil-Kingsbridge                                     ,BX29,WtNHE,14452.0
+Bronx,Kingsbridge Heights                                            ,BX30,WtNHE,772.0
+Bronx,Allerton-Pelham Gardens                                        ,BX31,WtNHE,9150.0
+Bronx,Longwood                                                       ,BX33,WtNHE,335.0
+Bronx,Melrose South-Mott Haven North                                 ,BX34,WtNHE,1089.0
+Bronx,Morrisania-Melrose                                             ,BX35,WtNHE,378.0
+Bronx,University Heights-Morris Heights                              ,BX36,WtNHE,783.0
+Bronx,Van Nest-Morris Park-Westchester Square                        ,BX37,WtNHE,7192.0
+Bronx,Mott Haven-Port Morris                                         ,BX39,WtNHE,865.0
+Bronx,Fordham South                                                  ,BX40,WtNHE,449.0
+Bronx,Mount Hope                                                     ,BX41,WtNHE,731.0
+Bronx,Norwood                                                        ,BX43,WtNHE,4230.0
+Bronx,Williamsbridge-Olinville                                       ,BX44,WtNHE,1430.0
+Bronx,Parkchester                                                    ,BX46,WtNHE,1101.0
+Bronx,Pelham Parkway                                                 ,BX49,WtNHE,11267.0
+Bronx,Schuylerville-Throgs Neck-Edgewater Park                       ,BX52,WtNHE,21937.0
+Bronx,Soundview-Bruckner                                             ,BX55,WtNHE,690.0
+Bronx,Westchester-Unionport                                          ,BX59,WtNHE,1434.0
+Bronx,Woodlawn-Wakefield                                             ,BX62,WtNHE,7482.0
+Bronx,West Concourse                                                 ,BX63,WtNHE,662.0
+Bronx,Crotona Park East                                              ,BX75,WtNHE,239.0
+Bronx,Rikers Island                                                  ,BX98,WtNHE,594.0
+Bronx,park-cemetery-etc-Bronx                                        ,BX99,WtNHE,
+Manhattan,Marble Hill-Inwood                                             ,MN01,WtNHE,7256.0
+Manhattan,Central Harlem North-Polo Grounds                              ,MN03,WtNHE,6412.0
+Manhattan,Hamilton Heights                                               ,MN04,WtNHE,7390.0
+Manhattan,Manhattanville                                                 ,MN06,WtNHE,2230.0
+Manhattan,Morningside Heights                                            ,MN09,WtNHE,26275.0
+Manhattan,Central Harlem South                                           ,MN11,WtNHE,8882.0
+Manhattan,Upper West Side                                                ,MN12,WtNHE,91812.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,WtNHE,46551.0
+Manhattan,Lincoln Square                                                 ,MN14,WtNHE,44051.0
+Manhattan,Clinton                                                        ,MN15,WtNHE,24483.0
+Manhattan,Midtown-Midtown South                                          ,MN17,WtNHE,18678.0
+Manhattan,Turtle Bay-East Midtown                                        ,MN19,WtNHE,36530.0
+Manhattan,Murray Hill-Kips Bay                                           ,MN20,WtNHE,32081.0
+Manhattan,Gramercy                                                       ,MN21,WtNHE,20018.0
+Manhattan,East Village                                                   ,MN22,WtNHE,29235.0
+Manhattan,West Village                                                   ,MN23,WtNHE,53302.0
+Manhattan,SoHo-TriBeCa-Civic Center-Little Italy                         ,MN24,WtNHE,27709.0
+Manhattan,Battery Park City-Lower Manhattan                              ,MN25,WtNHE,26157.0
+Manhattan,Chinatown                                                      ,MN27,WtNHE,7475.0
+Manhattan,Lower East Side                                                ,MN28,WtNHE,16828.0
+Manhattan,Lenox Hill-Roosevelt Island                                    ,MN31,WtNHE,59767.0
+Manhattan,Yorkville                                                      ,MN32,WtNHE,59764.0
+Manhattan,East Harlem South                                              ,MN33,WtNHE,11660.0
+Manhattan,East Harlem North                                              ,MN34,WtNHE,4892.0
+Manhattan,Washington Heights North                                       ,MN35,WtNHE,18871.0
+Manhattan,Washington Heights South                                       ,MN36,WtNHE,9479.0
+Manhattan,Upper East Side-Carnegie Hill                                  ,MN40,WtNHE,50560.0
+Manhattan,Stuyvesant Town-Cooper Village                                 ,MN50,WtNHE,16565.0
+Manhattan,park-cemetery-etc-Manhattan                                    ,MN99,WtNHE,
+Queens,South Jamaica                                                  ,QN01,WtNHE,246.0
+Queens,Springfield Gardens North                                      ,QN02,WtNHE,322.0
+Queens,Springfield Gardens South-Brookville                           ,QN03,WtNHE,289.0
+Queens,Rosedale                                                       ,QN05,WtNHE,1395.0
+Queens,Jamaica Estates-Holliswood                                     ,QN06,WtNHE,6424.0
+Queens,Hollis                                                         ,QN07,WtNHE,523.0
+Queens,St. Albans                                                     ,QN08,WtNHE,613.0
+Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad                  ,QN10,WtNHE,22927.0
+Queens,Hammels-Arverne-Edgemere                                       ,QN12,WtNHE,6172.0
+Queens,Far Rockaway-Bayswater                                         ,QN15,WtNHE,13295.0
+Queens,Forest Hills                                                   ,QN17,WtNHE,48721.0
+Queens,Rego Park                                                      ,QN18,WtNHE,13232.0
+Queens,Glendale                                                       ,QN19,WtNHE,18905.0
+Queens,Ridgewood                                                      ,QN20,WtNHE,26654.0
+Queens,Middle Village                                                 ,QN21,WtNHE,29358.0
+Queens,Flushing                                                       ,QN22,WtNHE,6429.0
+Queens,College Point                                                  ,QN23,WtNHE,6789.0
+Queens,Corona                                                         ,QN25,WtNHE,5082.0
+Queens,North Corona                                                   ,QN26,WtNHE,806.0
+Queens,East Elmhurst                                                  ,QN27,WtNHE,1056.0
+Queens,Jackson Heights                                                ,QN28,WtNHE,17061.0
+Queens,Elmhurst                                                       ,QN29,WtNHE,5487.0
+Queens,Maspeth                                                        ,QN30,WtNHE,16242.0
+Queens,Hunters Point-Sunnyside-West Maspeth                           ,QN31,WtNHE,22570.0
+Queens,Cambria Heights                                                ,QN33,WtNHE,291.0
+Queens,Queens Village                                                 ,QN34,WtNHE,3115.0
+Queens,Briarwood-Jamaica Hills                                        ,QN35,WtNHE,8081.0
+Queens,Kew Gardens Hills                                              ,QN37,WtNHE,19416.0
+Queens,Pomonok-Flushing Heights-Hillcrest                             ,QN38,WtNHE,11314.0
+Queens,Fresh Meadows-Utopia                                           ,QN41,WtNHE,5914.0
+Queens,Oakland Gardens                                                ,QN42,WtNHE,12043.0
+Queens,Bellerose                                                      ,QN43,WtNHE,8770.0
+Queens,Glen Oaks-Floral Park-New Hyde Park                            ,QN44,WtNHE,10947.0
+Queens,Douglas Manor-Douglaston-Little Neck                           ,QN45,WtNHE,12104.0
+Queens,Bayside-Bayside Hills                                          ,QN46,WtNHE,20405.0
+Queens,Ft. Totten-Bay Terrace-Clearview                               ,QN47,WtNHE,14761.0
+Queens,Auburndale                                                     ,QN48,WtNHE,8616.0
+Queens,Whitestone                                                     ,QN49,WtNHE,21104.0
+Queens,Elmhurst-Maspeth                                               ,QN50,WtNHE,3894.0
+Queens,Murray Hill                                                    ,QN51,WtNHE,13747.0
+Queens,East Flushing                                                  ,QN52,WtNHE,5381.0
+Queens,Woodhaven                                                      ,QN53,WtNHE,9478.0
+Queens,Richmond Hill                                                  ,QN54,WtNHE,6813.0
+Queens,South Ozone Park                                               ,QN55,WtNHE,5303.0
+Queens,Ozone Park                                                     ,QN56,WtNHE,6050.0
+Queens,Lindenwood-Howard Beach                                        ,QN57,WtNHE,20612.0
+Queens,Kew Gardens                                                    ,QN60,WtNHE,11167.0
+Queens,Jamaica                                                        ,QN61,WtNHE,2039.0
+Queens,Queensboro Hill                                                ,QN62,WtNHE,3546.0
+Queens,Woodside                                                       ,QN63,WtNHE,10259.0
+Queens,Laurelton                                                      ,QN66,WtNHE,456.0
+Queens,Queensbridge-Ravenswood-Long Island City                       ,QN68,WtNHE,3212.0
+Queens,Astoria                                                        ,QN70,WtNHE,39313.0
+Queens,Old Astoria                                                    ,QN71,WtNHE,10790.0
+Queens,Steinway                                                       ,QN72,WtNHE,30574.0
+Queens,Baisley Park                                                   ,QN76,WtNHE,305.0
+Queens,Airport                                                        ,QN98,WtNHE,
+Queens,park-cemetery-etc-Queens                                       ,QN99,WtNHE,
+Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville                     ,SI01,WtNHE,25392.0
+Staten Island,New Springville-Bloomfield-Travis                              ,SI05,WtNHE,26301.0
+Staten Island,Westerleigh                                                    ,SI07,WtNHE,18096.0
+Staten Island,Grymes Hill-Clifton-Fox Hills                                  ,SI08,WtNHE,6463.0
+Staten Island,Charleston-Richmond Valley-Tottenville                         ,SI11,WtNHE,19682.0
+Staten Island,Mariner's Harbor-Arlington-Port Ivory-Granite                  ,SI12,WtNHE,6907.0
+Staten Island,Grasmere-Arrochar-Ft. Wadsworth                                ,SI14,WtNHE,10227.0
+Staten Island,West New Brighton-New Brighton-St. George                      ,SI22,WtNHE,8468.0
+Staten Island,Todt Hill-Emerson Hill-Heartland Village-Ligh                  ,SI24,WtNHE,22506.0
+Staten Island,Oakwood-Oakwood Beach                                          ,SI25,WtNHE,17663.0
+Staten Island,Port Richmond                                                  ,SI28,WtNHE,8192.0
+Staten Island,Rossville-Woodrow                                              ,SI32,WtNHE,17610.0
+Staten Island,New Brighton-Silver Lake                                       ,SI35,WtNHE,10574.0
+Staten Island,Old Town-Dongan Hills-South Beach                              ,SI36,WtNHE,18037.0
+Staten Island,Stapleton-Rosebank                                             ,SI37,WtNHE,10132.0
+Staten Island,New Dorp-Midland Beach                                         ,SI45,WtNHE,15904.0
+Staten Island,Arden Heights                                                  ,SI48,WtNHE,19869.0
+Staten Island,Great Kills                                                    ,SI54,WtNHE,37589.0
+Staten Island,park-cemetery-etc-Staten Island                                ,SI99,WtNHE,
+Brooklyn,Brooklyn Heights-Cobble Hill                                   ,BK09,BlNHE,1171.0
+Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beac                  ,BK17,BlNHE,3888.0
+Brooklyn,Brighton Beach                                                 ,BK19,BlNHE,419.0
+Brooklyn,Seagate-Coney Island                                           ,BK21,BlNHE,9798.0
+Brooklyn,West Brighton                                                  ,BK23,BlNHE,163.0
+Brooklyn,Homecrest                                                      ,BK25,BlNHE,419.0
+Brooklyn,Gravesend                                                      ,BK26,BlNHE,2148.0
+Brooklyn,Bath Beach                                                     ,BK27,BlNHE,487.0
+Brooklyn,Bensonhurst West                                               ,BK28,BlNHE,558.0
+Brooklyn,Bensonhurst East                                               ,BK29,BlNHE,735.0
+Brooklyn,Dyker Heights                                                  ,BK30,BlNHE,250.0
+Brooklyn,Bay Ridge                                                      ,BK31,BlNHE,1391.0
+Brooklyn,Sunset Park West                                               ,BK32,BlNHE,1852.0
+Brooklyn,Carroll Gardens-Columbia Street-Red Hook                       ,BK33,BlNHE,4230.0
+Brooklyn,Sunset Park East                                               ,BK34,BlNHE,1214.0
+Brooklyn,Stuyvesant Heights                                             ,BK35,BlNHE,45354.0
+Brooklyn,Park Slope-Gowanus                                             ,BK37,BlNHE,3941.0
+Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum H                  ,BK38,BlNHE,8141.0
+Brooklyn,Windsor Terrace                                                ,BK40,BlNHE,1337.0
+Brooklyn,Kensington-Ocean Parkway                                       ,BK41,BlNHE,2892.0
+Brooklyn,Flatbush                                                       ,BK42,BlNHE,51360.0
+Brooklyn,Midwood                                                        ,BK43,BlNHE,2373.0
+Brooklyn,Madison                                                        ,BK44,BlNHE,270.0
+Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basi                  ,BK45,BlNHE,5249.0
+Brooklyn,Ocean Parkway South                                            ,BK46,BlNHE,97.0
+Brooklyn,Canarsie                                                       ,BK50,BlNHE,71367.0
+Brooklyn,Flatlands                                                      ,BK58,BlNHE,49785.0
+Brooklyn,Prospect Lefferts Gardens-Wingate                              ,BK60,BlNHE,51313.0
+Brooklyn,Crown Heights North                                            ,BK61,BlNHE,73218.0
+Brooklyn,Crown Heights South                                            ,BK63,BlNHE,25719.0
+Brooklyn,Prospect Heights                                               ,BK64,BlNHE,5149.0
+Brooklyn,Fort Greene                                                    ,BK68,BlNHE,11019.0
+Brooklyn,Clinton Hill                                                   ,BK69,BlNHE,13284.0
+Brooklyn,Williamsburg                                                   ,BK72,BlNHE,785.0
+Brooklyn,North Side-South Side                                          ,BK73,BlNHE,1165.0
+Brooklyn,Bedford                                                        ,BK75,BlNHE,33640.0
+Brooklyn,Greenpoint                                                     ,BK76,BlNHE,340.0
+Brooklyn,Bushwick North                                                 ,BK77,BlNHE,5747.0
+Brooklyn,Bushwick South                                                 ,BK78,BlNHE,18790.0
+Brooklyn,Ocean Hill                                                     ,BK79,BlNHE,24766.0
+Brooklyn,Brownsville                                                    ,BK81,BlNHE,46595.0
+Brooklyn,East New York                                                  ,BK82,BlNHE,62397.0
+Brooklyn,Cypress Hills-City Line                                        ,BK83,BlNHE,11438.0
+Brooklyn,East New York (Pennsylvania Ave)                               ,BK85,BlNHE,20219.0
+Brooklyn,Borough Park                                                   ,BK88,BlNHE,587.0
+Brooklyn,East Williamsburg                                              ,BK90,BlNHE,2727.0
+Brooklyn,East Flatbush-Farragut                                         ,BK91,BlNHE,47407.0
+Brooklyn,Starrett City                                                  ,BK93,BlNHE,5858.0
+Brooklyn,Erasmus                                                        ,BK95,BlNHE,24711.0
+Brooklyn,Rugby-Remsen Village                                           ,BK96,BlNHE,51354.0
+Brooklyn,park-cemetery-etc-Brooklyn                                     ,BK99,BlNHE,
+Bronx,Claremont-Bathgate                                             ,BX01,BlNHE,13321.0
+Bronx,Eastchester-Edenwald-Baychester                                ,BX03,BlNHE,25705.0
+Bronx,Bedford Park-Fordham North                                     ,BX05,BlNHE,8641.0
+Bronx,Belmont                                                        ,BX06,BlNHE,4691.0
+Bronx,Bronxdale                                                      ,BX07,BlNHE,10408.0
+Bronx,West Farms-Bronx River                                         ,BX08,BlNHE,9338.0
+Bronx,Soundview-Castle Hill-Clason Point-Harding Pa                  ,BX09,BlNHE,18550.0
+Bronx,Pelham Bay-Country Club-City Island                            ,BX10,BlNHE,568.0
+Bronx,Co-Op City                                                     ,BX13,BlNHE,27365.0
+Bronx,East Concourse-Concourse Village                               ,BX14,BlNHE,22546.0
+Bronx,East Tremont                                                   ,BX17,BlNHE,11866.0
+Bronx,North Riverdale-Fieldston-Riverdale                            ,BX22,BlNHE,1840.0
+Bronx,Highbridge                                                     ,BX26,BlNHE,12491.0
+Bronx,Hunts Point                                                    ,BX27,BlNHE,5813.0
+Bronx,Van Cortlandt Village                                          ,BX28,BlNHE,9581.0
+Bronx,Spuyten Duyvil-Kingsbridge                                     ,BX29,BlNHE,2247.0
+Bronx,Kingsbridge Heights                                            ,BX30,BlNHE,6316.0
+Bronx,Allerton-Pelham Gardens                                        ,BX31,BlNHE,10545.0
+Bronx,Longwood                                                       ,BX33,BlNHE,6570.0
+Bronx,Melrose South-Mott Haven North                                 ,BX34,BlNHE,11281.0
+Bronx,Morrisania-Melrose                                             ,BX35,BlNHE,13200.0
+Bronx,University Heights-Morris Heights                              ,BX36,BlNHE,16211.0
+Bronx,Van Nest-Morris Park-Westchester Square                        ,BX37,BlNHE,2809.0
+Bronx,Mott Haven-Port Morris                                         ,BX39,BlNHE,13469.0
+Bronx,Fordham South                                                  ,BX40,BlNHE,6795.0
+Bronx,Mount Hope                                                     ,BX41,BlNHE,13676.0
+Bronx,Norwood                                                        ,BX43,BlNHE,7951.0
+Bronx,Williamsbridge-Olinville                                       ,BX44,BlNHE,44260.0
+Bronx,Parkchester                                                    ,BX46,BlNHE,13871.0
+Bronx,Pelham Parkway                                                 ,BX49,BlNHE,2997.0
+Bronx,Schuylerville-Throgs Neck-Edgewater Park                       ,BX52,BlNHE,3864.0
+Bronx,Soundview-Bruckner                                             ,BX55,BlNHE,8864.0
+Bronx,Westchester-Unionport                                          ,BX59,BlNHE,4340.0
+Bronx,Woodlawn-Wakefield                                             ,BX62,BlNHE,27271.0
+Bronx,West Concourse                                                 ,BX63,BlNHE,9024.0
+Bronx,Crotona Park East                                              ,BX75,BlNHE,5569.0
+Bronx,Rikers Island                                                  ,BX98,BlNHE,5169.0
+Bronx,park-cemetery-etc-Bronx                                        ,BX99,BlNHE,
+Manhattan,Marble Hill-Inwood                                             ,MN01,BlNHE,3711.0
+Manhattan,Central Harlem North-Polo Grounds                              ,MN03,BlNHE,49250.0
+Manhattan,Hamilton Heights                                               ,MN04,BlNHE,16374.0
+Manhattan,Manhattanville                                                 ,MN06,BlNHE,6096.0
+Manhattan,Morningside Heights                                            ,MN09,BlNHE,6693.0
+Manhattan,Central Harlem South                                           ,MN11,BlNHE,27809.0
+Manhattan,Upper West Side                                                ,MN12,BlNHE,11241.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,BlNHE,4342.0
+Manhattan,Lincoln Square                                                 ,MN14,BlNHE,2035.0
+Manhattan,Clinton                                                        ,MN15,BlNHE,2442.0
+Manhattan,Midtown-Midtown South                                          ,MN17,BlNHE,1121.0
+Manhattan,Turtle Bay-East Midtown                                        ,MN19,BlNHE,966.0
+Manhattan,Murray Hill-Kips Bay                                           ,MN20,BlNHE,2177.0
+Manhattan,Gramercy                                                       ,MN21,BlNHE,791.0
+Manhattan,East Village                                                   ,MN22,BlNHE,2291.0
+Manhattan,West Village                                                   ,MN23,BlNHE,1258.0
+Manhattan,SoHo-TriBeCa-Civic Center-Little Italy                         ,MN24,BlNHE,861.0
+Manhattan,Battery Park City-Lower Manhattan                              ,MN25,BlNHE,1208.0
+Manhattan,Chinatown                                                      ,MN27,BlNHE,1946.0
+Manhattan,Lower East Side                                                ,MN28,BlNHE,7227.0
+Manhattan,Lenox Hill-Roosevelt Island                                    ,MN31,BlNHE,3679.0
+Manhattan,Yorkville                                                      ,MN32,BlNHE,2255.0
+Manhattan,East Harlem South                                              ,MN33,BlNHE,14259.0
+Manhattan,East Harlem North                                              ,MN34,BlNHE,20804.0
+Manhattan,Washington Heights North                                       ,MN35,BlNHE,3487.0
+Manhattan,Washington Heights South                                       ,MN36,BlNHE,9821.0
+Manhattan,Upper East Side-Carnegie Hill                                  ,MN40,BlNHE,835.0
+Manhattan,Stuyvesant Town-Cooper Village                                 ,MN50,BlNHE,799.0
+Manhattan,park-cemetery-etc-Manhattan                                    ,MN99,BlNHE,
+Queens,South Jamaica                                                  ,QN01,BlNHE,25900.0
+Queens,Springfield Gardens North                                      ,QN02,BlNHE,23640.0
+Queens,Springfield Gardens South-Brookville                           ,QN03,BlNHE,17389.0
+Queens,Rosedale                                                       ,QN05,BlNHE,23171.0
+Queens,Jamaica Estates-Holliswood                                     ,QN06,BlNHE,6851.0
+Queens,Hollis                                                         ,QN07,BlNHE,12876.0
+Queens,St. Albans                                                     ,QN08,BlNHE,46457.0
+Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad                  ,QN10,BlNHE,2184.0
+Queens,Hammels-Arverne-Edgemere                                       ,QN12,BlNHE,18472.0
+Queens,Far Rockaway-Bayswater                                         ,QN15,BlNHE,21733.0
+Queens,Forest Hills                                                   ,QN17,BlNHE,2262.0
+Queens,Rego Park                                                      ,QN18,BlNHE,571.0
+Queens,Glendale                                                       ,QN19,BlNHE,280.0
+Queens,Ridgewood                                                      ,QN20,BlNHE,1327.0
+Queens,Middle Village                                                 ,QN21,BlNHE,381.0
+Queens,Flushing                                                       ,QN22,BlNHE,2536.0
+Queens,College Point                                                  ,QN23,BlNHE,545.0
+Queens,Corona                                                         ,QN25,BlNHE,8473.0
+Queens,North Corona                                                   ,QN26,BlNHE,2043.0
+Queens,East Elmhurst                                                  ,QN27,BlNHE,5712.0
+Queens,Jackson Heights                                                ,QN28,BlNHE,1903.0
+Queens,Elmhurst                                                       ,QN29,BlNHE,1289.0
+Queens,Maspeth                                                        ,QN30,BlNHE,233.0
+Queens,Hunters Point-Sunnyside-West Maspeth                           ,QN31,BlNHE,1083.0
+Queens,Cambria Heights                                                ,QN33,BlNHE,17710.0
+Queens,Queens Village                                                 ,QN34,BlNHE,28501.0
+Queens,Briarwood-Jamaica Hills                                        ,QN35,BlNHE,4179.0
+Queens,Kew Gardens Hills                                              ,QN37,BlNHE,2943.0
+Queens,Pomonok-Flushing Heights-Hillcrest                             ,QN38,BlNHE,3681.0
+Queens,Fresh Meadows-Utopia                                           ,QN41,BlNHE,507.0
+Queens,Oakland Gardens                                                ,QN42,BlNHE,418.0
+Queens,Bellerose                                                      ,QN43,BlNHE,1588.0
+Queens,Glen Oaks-Floral Park-New Hyde Park                            ,QN44,BlNHE,807.0
+Queens,Douglas Manor-Douglaston-Little Neck                           ,QN45,BlNHE,591.0
+Queens,Bayside-Bayside Hills                                          ,QN46,BlNHE,787.0
+Queens,Ft. Totten-Bay Terrace-Clearview                               ,QN47,BlNHE,107.0
+Queens,Auburndale                                                     ,QN48,BlNHE,172.0
+Queens,Whitestone                                                     ,QN49,BlNHE,172.0
+Queens,Elmhurst-Maspeth                                               ,QN50,BlNHE,206.0
+Queens,Murray Hill                                                    ,QN51,BlNHE,780.0
+Queens,East Flushing                                                  ,QN52,BlNHE,367.0
+Queens,Woodhaven                                                      ,QN53,BlNHE,3029.0
+Queens,Richmond Hill                                                  ,QN54,BlNHE,5779.0
+Queens,South Ozone Park                                               ,QN55,BlNHE,19696.0
+Queens,Ozone Park                                                     ,QN56,BlNHE,1300.0
+Queens,Lindenwood-Howard Beach                                        ,QN57,BlNHE,686.0
+Queens,Kew Gardens                                                    ,QN60,BlNHE,1877.0
+Queens,Jamaica                                                        ,QN61,BlNHE,10573.0
+Queens,Queensboro Hill                                                ,QN62,BlNHE,250.0
+Queens,Woodside                                                       ,QN63,BlNHE,659.0
+Queens,Laurelton                                                      ,QN66,BlNHE,23389.0
+Queens,Queensbridge-Ravenswood-Long Island City                       ,QN68,BlNHE,4113.0
+Queens,Astoria                                                        ,QN70,BlNHE,3672.0
+Queens,Old Astoria                                                    ,QN71,BlNHE,2896.0
+Queens,Steinway                                                       ,QN72,BlNHE,876.0
+Queens,Baisley Park                                                   ,QN76,BlNHE,26733.0
+Queens,Airport                                                        ,QN98,BlNHE,
+Queens,park-cemetery-etc-Queens                                       ,QN99,BlNHE,
+Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville                     ,SI01,BlNHE,75.0
+Staten Island,New Springville-Bloomfield-Travis                              ,SI05,BlNHE,1920.0
+Staten Island,Westerleigh                                                    ,SI07,BlNHE,608.0
+Staten Island,Grymes Hill-Clifton-Fox Hills                                  ,SI08,BlNHE,7969.0
+Staten Island,Charleston-Richmond Valley-Tottenville                         ,SI11,BlNHE,540.0
+Staten Island,Mariner's Harbor-Arlington-Port Ivory-Granite                  ,SI12,BlNHE,8848.0
+Staten Island,Grasmere-Arrochar-Ft. Wadsworth                                ,SI14,BlNHE,766.0
+Staten Island,West New Brighton-New Brighton-St. George                      ,SI22,BlNHE,11446.0
+Staten Island,Todt Hill-Emerson Hill-Heartland Village-Ligh                  ,SI24,BlNHE,549.0
+Staten Island,Oakwood-Oakwood Beach                                          ,SI25,BlNHE,631.0
+Staten Island,Port Richmond                                                  ,SI28,BlNHE,3216.0
+Staten Island,Rossville-Woodrow                                              ,SI32,BlNHE,58.0
+Staten Island,New Brighton-Silver Lake                                       ,SI35,BlNHE,2044.0
+Staten Island,Old Town-Dongan Hills-South Beach                              ,SI36,BlNHE,886.0
+Staten Island,Stapleton-Rosebank                                             ,SI37,BlNHE,5302.0
+Staten Island,New Dorp-Midland Beach                                         ,SI45,BlNHE,344.0
+Staten Island,Arden Heights                                                  ,SI48,BlNHE,257.0
+Staten Island,Great Kills                                                    ,SI54,BlNHE,111.0
+Staten Island,park-cemetery-etc-Staten Island                                ,SI99,BlNHE,
+Brooklyn,Brooklyn Heights-Cobble Hill                                   ,BK09,AIANNHE,15.0
+Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beac                  ,BK17,AIANNHE,37.0
+Brooklyn,Brighton Beach                                                 ,BK19,AIANNHE,158.0
+Brooklyn,Seagate-Coney Island                                           ,BK21,AIANNHE,27.0
+Brooklyn,West Brighton                                                  ,BK23,AIANNHE,0.0
+Brooklyn,Homecrest                                                      ,BK25,AIANNHE,37.0
+Brooklyn,Gravesend                                                      ,BK26,AIANNHE,128.0
+Brooklyn,Bath Beach                                                     ,BK27,AIANNHE,63.0
+Brooklyn,Bensonhurst West                                               ,BK28,AIANNHE,183.0
+Brooklyn,Bensonhurst East                                               ,BK29,AIANNHE,0.0
+Brooklyn,Dyker Heights                                                  ,BK30,AIANNHE,17.0
+Brooklyn,Bay Ridge                                                      ,BK31,AIANNHE,211.0
+Brooklyn,Sunset Park West                                               ,BK32,AIANNHE,87.0
+Brooklyn,Carroll Gardens-Columbia Street-Red Hook                       ,BK33,AIANNHE,15.0
+Brooklyn,Sunset Park East                                               ,BK34,AIANNHE,434.0
+Brooklyn,Stuyvesant Heights                                             ,BK35,AIANNHE,83.0
+Brooklyn,Park Slope-Gowanus                                             ,BK37,AIANNHE,344.0
+Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum H                  ,BK38,AIANNHE,62.0
+Brooklyn,Windsor Terrace                                                ,BK40,AIANNHE,54.0
+Brooklyn,Kensington-Ocean Parkway                                       ,BK41,AIANNHE,99.0
+Brooklyn,Flatbush                                                       ,BK42,AIANNHE,88.0
+Brooklyn,Midwood                                                        ,BK43,AIANNHE,22.0
+Brooklyn,Madison                                                        ,BK44,AIANNHE,15.0
+Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basi                  ,BK45,AIANNHE,0.0
+Brooklyn,Ocean Parkway South                                            ,BK46,AIANNHE,102.0
+Brooklyn,Canarsie                                                       ,BK50,AIANNHE,321.0
+Brooklyn,Flatlands                                                      ,BK58,AIANNHE,64.0
+Brooklyn,Prospect Lefferts Gardens-Wingate                              ,BK60,AIANNHE,87.0
+Brooklyn,Crown Heights North                                            ,BK61,AIANNHE,213.0
+Brooklyn,Crown Heights South                                            ,BK63,AIANNHE,95.0
+Brooklyn,Prospect Heights                                               ,BK64,AIANNHE,0.0
+Brooklyn,Fort Greene                                                    ,BK68,AIANNHE,4.0
+Brooklyn,Clinton Hill                                                   ,BK69,AIANNHE,50.0
+Brooklyn,Williamsburg                                                   ,BK72,AIANNHE,0.0
+Brooklyn,North Side-South Side                                          ,BK73,AIANNHE,51.0
+Brooklyn,Bedford                                                        ,BK75,AIANNHE,160.0
+Brooklyn,Greenpoint                                                     ,BK76,AIANNHE,114.0
+Brooklyn,Bushwick North                                                 ,BK77,AIANNHE,14.0
+Brooklyn,Bushwick South                                                 ,BK78,AIANNHE,303.0
+Brooklyn,Ocean Hill                                                     ,BK79,AIANNHE,17.0
+Brooklyn,Brownsville                                                    ,BK81,AIANNHE,75.0
+Brooklyn,East New York                                                  ,BK82,AIANNHE,150.0
+Brooklyn,Cypress Hills-City Line                                        ,BK83,AIANNHE,50.0
+Brooklyn,East New York (Pennsylvania Ave)                               ,BK85,AIANNHE,11.0
+Brooklyn,Borough Park                                                   ,BK88,AIANNHE,69.0
+Brooklyn,East Williamsburg                                              ,BK90,AIANNHE,29.0
+Brooklyn,East Flatbush-Farragut                                         ,BK91,AIANNHE,14.0
+Brooklyn,Starrett City                                                  ,BK93,AIANNHE,0.0
+Brooklyn,Erasmus                                                        ,BK95,AIANNHE,1.0
+Brooklyn,Rugby-Remsen Village                                           ,BK96,AIANNHE,196.0
+Brooklyn,park-cemetery-etc-Brooklyn                                     ,BK99,AIANNHE,
+Bronx,Claremont-Bathgate                                             ,BX01,AIANNHE,121.0
+Bronx,Eastchester-Edenwald-Baychester                                ,BX03,AIANNHE,185.0
+Bronx,Bedford Park-Fordham North                                     ,BX05,AIANNHE,0.0
+Bronx,Belmont                                                        ,BX06,AIANNHE,67.0
+Bronx,Bronxdale                                                      ,BX07,AIANNHE,88.0
+Bronx,West Farms-Bronx River                                         ,BX08,AIANNHE,59.0
+Bronx,Soundview-Castle Hill-Clason Point-Harding Pa                  ,BX09,AIANNHE,25.0
+Bronx,Pelham Bay-Country Club-City Island                            ,BX10,AIANNHE,0.0
+Bronx,Co-Op City                                                     ,BX13,AIANNHE,133.0
+Bronx,East Concourse-Concourse Village                               ,BX14,AIANNHE,271.0
+Bronx,East Tremont                                                   ,BX17,AIANNHE,8.0
+Bronx,North Riverdale-Fieldston-Riverdale                            ,BX22,AIANNHE,0.0
+Bronx,Highbridge                                                     ,BX26,AIANNHE,108.0
+Bronx,Hunts Point                                                    ,BX27,AIANNHE,37.0
+Bronx,Van Cortlandt Village                                          ,BX28,AIANNHE,201.0
+Bronx,Spuyten Duyvil-Kingsbridge                                     ,BX29,AIANNHE,48.0
+Bronx,Kingsbridge Heights                                            ,BX30,AIANNHE,15.0
+Bronx,Allerton-Pelham Gardens                                        ,BX31,AIANNHE,82.0
+Bronx,Longwood                                                       ,BX33,AIANNHE,8.0
+Bronx,Melrose South-Mott Haven North                                 ,BX34,AIANNHE,150.0
+Bronx,Morrisania-Melrose                                             ,BX35,AIANNHE,102.0
+Bronx,University Heights-Morris Heights                              ,BX36,AIANNHE,10.0
+Bronx,Van Nest-Morris Park-Westchester Square                        ,BX37,AIANNHE,15.0
+Bronx,Mott Haven-Port Morris                                         ,BX39,AIANNHE,89.0
+Bronx,Fordham South                                                  ,BX40,AIANNHE,79.0
+Bronx,Mount Hope                                                     ,BX41,AIANNHE,118.0
+Bronx,Norwood                                                        ,BX43,AIANNHE,148.0
+Bronx,Williamsbridge-Olinville                                       ,BX44,AIANNHE,408.0
+Bronx,Parkchester                                                    ,BX46,AIANNHE,0.0
+Bronx,Pelham Parkway                                                 ,BX49,AIANNHE,10.0
+Bronx,Schuylerville-Throgs Neck-Edgewater Park                       ,BX52,AIANNHE,164.0
+Bronx,Soundview-Bruckner                                             ,BX55,AIANNHE,168.0
+Bronx,Westchester-Unionport                                          ,BX59,AIANNHE,15.0
+Bronx,Woodlawn-Wakefield                                             ,BX62,AIANNHE,13.0
+Bronx,West Concourse                                                 ,BX63,AIANNHE,61.0
+Bronx,Crotona Park East                                              ,BX75,AIANNHE,0.0
+Bronx,Rikers Island                                                  ,BX98,AIANNHE,0.0
+Bronx,park-cemetery-etc-Bronx                                        ,BX99,AIANNHE,
+Manhattan,Marble Hill-Inwood                                             ,MN01,AIANNHE,19.0
+Manhattan,Central Harlem North-Polo Grounds                              ,MN03,AIANNHE,250.0
+Manhattan,Hamilton Heights                                               ,MN04,AIANNHE,85.0
+Manhattan,Manhattanville                                                 ,MN06,AIANNHE,0.0
+Manhattan,Morningside Heights                                            ,MN09,AIANNHE,49.0
+Manhattan,Central Harlem South                                           ,MN11,AIANNHE,16.0
+Manhattan,Upper West Side                                                ,MN12,AIANNHE,220.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,AIANNHE,294.0
+Manhattan,Lincoln Square                                                 ,MN14,AIANNHE,18.0
+Manhattan,Clinton                                                        ,MN15,AIANNHE,0.0
+Manhattan,Midtown-Midtown South                                          ,MN17,AIANNHE,51.0
+Manhattan,Turtle Bay-East Midtown                                        ,MN19,AIANNHE,113.0
+Manhattan,Murray Hill-Kips Bay                                           ,MN20,AIANNHE,16.0
+Manhattan,Gramercy                                                       ,MN21,AIANNHE,68.0
+Manhattan,East Village                                                   ,MN22,AIANNHE,45.0
+Manhattan,West Village                                                   ,MN23,AIANNHE,130.0
+Manhattan,SoHo-TriBeCa-Civic Center-Little Italy                         ,MN24,AIANNHE,31.0
+Manhattan,Battery Park City-Lower Manhattan                              ,MN25,AIANNHE,49.0
+Manhattan,Chinatown                                                      ,MN27,AIANNHE,327.0
+Manhattan,Lower East Side                                                ,MN28,AIANNHE,40.0
+Manhattan,Lenox Hill-Roosevelt Island                                    ,MN31,AIANNHE,0.0
+Manhattan,Yorkville                                                      ,MN32,AIANNHE,17.0
+Manhattan,East Harlem South                                              ,MN33,AIANNHE,0.0
+Manhattan,East Harlem North                                              ,MN34,AIANNHE,22.0
+Manhattan,Washington Heights North                                       ,MN35,AIANNHE,36.0
+Manhattan,Washington Heights South                                       ,MN36,AIANNHE,94.0
+Manhattan,Upper East Side-Carnegie Hill                                  ,MN40,AIANNHE,113.0
+Manhattan,Stuyvesant Town-Cooper Village                                 ,MN50,AIANNHE,12.0
+Manhattan,park-cemetery-etc-Manhattan                                    ,MN99,AIANNHE,
+Queens,South Jamaica                                                  ,QN01,AIANNHE,332.0
+Queens,Springfield Gardens North                                      ,QN02,AIANNHE,0.0
+Queens,Springfield Gardens South-Brookville                           ,QN03,AIANNHE,0.0
+Queens,Rosedale                                                       ,QN05,AIANNHE,27.0
+Queens,Jamaica Estates-Holliswood                                     ,QN06,AIANNHE,74.0
+Queens,Hollis                                                         ,QN07,AIANNHE,8.0
+Queens,St. Albans                                                     ,QN08,AIANNHE,38.0
+Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad                  ,QN10,AIANNHE,8.0
+Queens,Hammels-Arverne-Edgemere                                       ,QN12,AIANNHE,0.0
+Queens,Far Rockaway-Bayswater                                         ,QN15,AIANNHE,96.0
+Queens,Forest Hills                                                   ,QN17,AIANNHE,192.0
+Queens,Rego Park                                                      ,QN18,AIANNHE,64.0
+Queens,Glendale                                                       ,QN19,AIANNHE,101.0
+Queens,Ridgewood                                                      ,QN20,AIANNHE,66.0
+Queens,Middle Village                                                 ,QN21,AIANNHE,0.0
+Queens,Flushing                                                       ,QN22,AIANNHE,599.0
+Queens,College Point                                                  ,QN23,AIANNHE,121.0
+Queens,Corona                                                         ,QN25,AIANNHE,0.0
+Queens,North Corona                                                   ,QN26,AIANNHE,62.0
+Queens,East Elmhurst                                                  ,QN27,AIANNHE,0.0
+Queens,Jackson Heights                                                ,QN28,AIANNHE,325.0
+Queens,Elmhurst                                                       ,QN29,AIANNHE,162.0
+Queens,Maspeth                                                        ,QN30,AIANNHE,18.0
+Queens,Hunters Point-Sunnyside-West Maspeth                           ,QN31,AIANNHE,28.0
+Queens,Cambria Heights                                                ,QN33,AIANNHE,99.0
+Queens,Queens Village                                                 ,QN34,AIANNHE,96.0
+Queens,Briarwood-Jamaica Hills                                        ,QN35,AIANNHE,6.0
+Queens,Kew Gardens Hills                                              ,QN37,AIANNHE,47.0
+Queens,Pomonok-Flushing Heights-Hillcrest                             ,QN38,AIANNHE,45.0
+Queens,Fresh Meadows-Utopia                                           ,QN41,AIANNHE,9.0
+Queens,Oakland Gardens                                                ,QN42,AIANNHE,21.0
+Queens,Bellerose                                                      ,QN43,AIANNHE,45.0
+Queens,Glen Oaks-Floral Park-New Hyde Park                            ,QN44,AIANNHE,89.0
+Queens,Douglas Manor-Douglaston-Little Neck                           ,QN45,AIANNHE,0.0
+Queens,Bayside-Bayside Hills                                          ,QN46,AIANNHE,195.0
+Queens,Ft. Totten-Bay Terrace-Clearview                               ,QN47,AIANNHE,22.0
+Queens,Auburndale                                                     ,QN48,AIANNHE,27.0
+Queens,Whitestone                                                     ,QN49,AIANNHE,38.0
+Queens,Elmhurst-Maspeth                                               ,QN50,AIANNHE,36.0
+Queens,Murray Hill                                                    ,QN51,AIANNHE,84.0
+Queens,East Flushing                                                  ,QN52,AIANNHE,162.0
+Queens,Woodhaven                                                      ,QN53,AIANNHE,76.0
+Queens,Richmond Hill                                                  ,QN54,AIANNHE,496.0
+Queens,South Ozone Park                                               ,QN55,AIANNHE,493.0
+Queens,Ozone Park                                                     ,QN56,AIANNHE,39.0
+Queens,Lindenwood-Howard Beach                                        ,QN57,AIANNHE,0.0
+Queens,Kew Gardens                                                    ,QN60,AIANNHE,43.0
+Queens,Jamaica                                                        ,QN61,AIANNHE,430.0
+Queens,Queensboro Hill                                                ,QN62,AIANNHE,131.0
+Queens,Woodside                                                       ,QN63,AIANNHE,45.0
+Queens,Laurelton                                                      ,QN66,AIANNHE,31.0
+Queens,Queensbridge-Ravenswood-Long Island City                       ,QN68,AIANNHE,96.0
+Queens,Astoria                                                        ,QN70,AIANNHE,21.0
+Queens,Old Astoria                                                    ,QN71,AIANNHE,265.0
+Queens,Steinway                                                       ,QN72,AIANNHE,34.0
+Queens,Baisley Park                                                   ,QN76,AIANNHE,85.0
+Queens,Airport                                                        ,QN98,AIANNHE,
+Queens,park-cemetery-etc-Queens                                       ,QN99,AIANNHE,
+Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville                     ,SI01,AIANNHE,0.0
+Staten Island,New Springville-Bloomfield-Travis                              ,SI05,AIANNHE,54.0
+Staten Island,Westerleigh                                                    ,SI07,AIANNHE,27.0
+Staten Island,Grymes Hill-Clifton-Fox Hills                                  ,SI08,AIANNHE,288.0
+Staten Island,Charleston-Richmond Valley-Tottenville                         ,SI11,AIANNHE,22.0
+Staten Island,Mariner's Harbor-Arlington-Port Ivory-Granite                  ,SI12,AIANNHE,29.0
+Staten Island,Grasmere-Arrochar-Ft. Wadsworth                                ,SI14,AIANNHE,0.0
+Staten Island,West New Brighton-New Brighton-St. George                      ,SI22,AIANNHE,2.0
+Staten Island,Todt Hill-Emerson Hill-Heartland Village-Ligh                  ,SI24,AIANNHE,6.0
+Staten Island,Oakwood-Oakwood Beach                                          ,SI25,AIANNHE,0.0
+Staten Island,Port Richmond                                                  ,SI28,AIANNHE,0.0
+Staten Island,Rossville-Woodrow                                              ,SI32,AIANNHE,0.0
+Staten Island,New Brighton-Silver Lake                                       ,SI35,AIANNHE,7.0
+Staten Island,Old Town-Dongan Hills-South Beach                              ,SI36,AIANNHE,39.0
+Staten Island,Stapleton-Rosebank                                             ,SI37,AIANNHE,14.0
+Staten Island,New Dorp-Midland Beach                                         ,SI45,AIANNHE,0.0
+Staten Island,Arden Heights                                                  ,SI48,AIANNHE,14.0
+Staten Island,Great Kills                                                    ,SI54,AIANNHE,11.0
+Staten Island,park-cemetery-etc-Staten Island                                ,SI99,AIANNHE,
+Brooklyn,Brooklyn Heights-Cobble Hill                                   ,BK09,AsnNHE,1607.0
+Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beac                  ,BK17,AsnNHE,10015.0
+Brooklyn,Brighton Beach                                                 ,BK19,AsnNHE,4413.0
+Brooklyn,Seagate-Coney Island                                           ,BK21,AsnNHE,3732.0
+Brooklyn,West Brighton                                                  ,BK23,AsnNHE,102.0
+Brooklyn,Homecrest                                                      ,BK25,AsnNHE,4589.0
+Brooklyn,Gravesend                                                      ,BK26,AsnNHE,6836.0
+Brooklyn,Bath Beach                                                     ,BK27,AsnNHE,9139.0
+Brooklyn,Bensonhurst West                                               ,BK28,AsnNHE,33185.0
+Brooklyn,Bensonhurst East                                               ,BK29,AsnNHE,22034.0
+Brooklyn,Dyker Heights                                                  ,BK30,AsnNHE,17673.0
+Brooklyn,Bay Ridge                                                      ,BK31,AsnNHE,12155.0
+Brooklyn,Sunset Park West                                               ,BK32,AsnNHE,8395.0
+Brooklyn,Carroll Gardens-Columbia Street-Red Hook                       ,BK33,AsnNHE,2248.0
+Brooklyn,Sunset Park East                                               ,BK34,AsnNHE,37592.0
+Brooklyn,Stuyvesant Heights                                             ,BK35,AsnNHE,1826.0
+Brooklyn,Park Slope-Gowanus                                             ,BK37,AsnNHE,4906.0
+Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum H                  ,BK38,AsnNHE,3298.0
+Brooklyn,Windsor Terrace                                                ,BK40,AsnNHE,2344.0
+Brooklyn,Kensington-Ocean Parkway                                       ,BK41,AsnNHE,9100.0
+Brooklyn,Flatbush                                                       ,BK42,AsnNHE,9332.0
+Brooklyn,Midwood                                                        ,BK43,AsnNHE,5059.0
+Brooklyn,Madison                                                        ,BK44,AsnNHE,8788.0
+Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basi                  ,BK45,AsnNHE,2478.0
+Brooklyn,Ocean Parkway South                                            ,BK46,AsnNHE,721.0
+Brooklyn,Canarsie                                                       ,BK50,AsnNHE,2402.0
+Brooklyn,Flatlands                                                      ,BK58,AsnNHE,2257.0
+Brooklyn,Prospect Lefferts Gardens-Wingate                              ,BK60,AsnNHE,1389.0
+Brooklyn,Crown Heights North                                            ,BK61,AsnNHE,2826.0
+Brooklyn,Crown Heights South                                            ,BK63,AsnNHE,659.0
+Brooklyn,Prospect Heights                                               ,BK64,AsnNHE,1478.0
+Brooklyn,Fort Greene                                                    ,BK68,AsnNHE,2500.0
+Brooklyn,Clinton Hill                                                   ,BK69,AsnNHE,1844.0
+Brooklyn,Williamsburg                                                   ,BK72,AsnNHE,35.0
+Brooklyn,North Side-South Side                                          ,BK73,AsnNHE,2490.0
+Brooklyn,Bedford                                                        ,BK75,AsnNHE,2090.0
+Brooklyn,Greenpoint                                                     ,BK76,AsnNHE,1810.0
+Brooklyn,Bushwick North                                                 ,BK77,AsnNHE,3768.0
+Brooklyn,Bushwick South                                                 ,BK78,AsnNHE,1820.0
+Brooklyn,Ocean Hill                                                     ,BK79,AsnNHE,248.0
+Brooklyn,Brownsville                                                    ,BK81,AsnNHE,494.0
+Brooklyn,East New York                                                  ,BK82,AsnNHE,1937.0
+Brooklyn,Cypress Hills-City Line                                        ,BK83,AsnNHE,3131.0
+Brooklyn,East New York (Pennsylvania Ave)                               ,BK85,AsnNHE,236.0
+Brooklyn,Borough Park                                                   ,BK88,AsnNHE,13515.0
+Brooklyn,East Williamsburg                                              ,BK90,AsnNHE,3793.0
+Brooklyn,East Flatbush-Farragut                                         ,BK91,AsnNHE,497.0
+Brooklyn,Starrett City                                                  ,BK93,AsnNHE,496.0
+Brooklyn,Erasmus                                                        ,BK95,AsnNHE,672.0
+Brooklyn,Rugby-Remsen Village                                           ,BK96,AsnNHE,549.0
+Brooklyn,park-cemetery-etc-Brooklyn                                     ,BK99,AsnNHE,
+Bronx,Claremont-Bathgate                                             ,BX01,AsnNHE,38.0
+Bronx,Eastchester-Edenwald-Baychester                                ,BX03,AsnNHE,129.0
+Bronx,Bedford Park-Fordham North                                     ,BX05,AsnNHE,2209.0
+Bronx,Belmont                                                        ,BX06,AsnNHE,460.0
+Bronx,Bronxdale                                                      ,BX07,AsnNHE,1464.0
+Bronx,West Farms-Bronx River                                         ,BX08,AsnNHE,1279.0
+Bronx,Soundview-Castle Hill-Clason Point-Harding Pa                  ,BX09,AsnNHE,976.0
+Bronx,Pelham Bay-Country Club-City Island                            ,BX10,AsnNHE,1112.0
+Bronx,Co-Op City                                                     ,BX13,AsnNHE,608.0
+Bronx,East Concourse-Concourse Village                               ,BX14,AsnNHE,971.0
+Bronx,East Tremont                                                   ,BX17,AsnNHE,496.0
+Bronx,North Riverdale-Fieldston-Riverdale                            ,BX22,AsnNHE,1989.0
+Bronx,Highbridge                                                     ,BX26,AsnNHE,127.0
+Bronx,Hunts Point                                                    ,BX27,AsnNHE,55.0
+Bronx,Van Cortlandt Village                                          ,BX28,AsnNHE,1571.0
+Bronx,Spuyten Duyvil-Kingsbridge                                     ,BX29,AsnNHE,1601.0
+Bronx,Kingsbridge Heights                                            ,BX30,AsnNHE,1487.0
+Bronx,Allerton-Pelham Gardens                                        ,BX31,AsnNHE,2463.0
+Bronx,Longwood                                                       ,BX33,AsnNHE,234.0
+Bronx,Melrose South-Mott Haven North                                 ,BX34,AsnNHE,204.0
+Bronx,Morrisania-Melrose                                             ,BX35,AsnNHE,125.0
+Bronx,University Heights-Morris Heights                              ,BX36,AsnNHE,772.0
+Bronx,Van Nest-Morris Park-Westchester Square                        ,BX37,AsnNHE,2666.0
+Bronx,Mott Haven-Port Morris                                         ,BX39,AsnNHE,399.0
+Bronx,Fordham South                                                  ,BX40,AsnNHE,235.0
+Bronx,Mount Hope                                                     ,BX41,AsnNHE,989.0
+Bronx,Norwood                                                        ,BX43,AsnNHE,4079.0
+Bronx,Williamsbridge-Olinville                                       ,BX44,AsnNHE,969.0
+Bronx,Parkchester                                                    ,BX46,AsnNHE,4656.0
+Bronx,Pelham Parkway                                                 ,BX49,AsnNHE,3461.0
+Bronx,Schuylerville-Throgs Neck-Edgewater Park                       ,BX52,AsnNHE,1467.0
+Bronx,Soundview-Bruckner                                             ,BX55,AsnNHE,2588.0
+Bronx,Westchester-Unionport                                          ,BX59,AsnNHE,3698.0
+Bronx,Woodlawn-Wakefield                                             ,BX62,AsnNHE,1473.0
+Bronx,West Concourse                                                 ,BX63,AsnNHE,1374.0
+Bronx,Crotona Park East                                              ,BX75,AsnNHE,126.0
+Bronx,Rikers Island                                                  ,BX98,AsnNHE,202.0
+Bronx,park-cemetery-etc-Bronx                                        ,BX99,AsnNHE,
+Manhattan,Marble Hill-Inwood                                             ,MN01,AsnNHE,719.0
+Manhattan,Central Harlem North-Polo Grounds                              ,MN03,AsnNHE,2351.0
+Manhattan,Hamilton Heights                                               ,MN04,AsnNHE,859.0
+Manhattan,Manhattanville                                                 ,MN06,AsnNHE,858.0
+Manhattan,Morningside Heights                                            ,MN09,AsnNHE,7956.0
+Manhattan,Central Harlem South                                           ,MN11,AsnNHE,1864.0
+Manhattan,Upper West Side                                                ,MN12,AsnNHE,9851.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,AsnNHE,8783.0
+Manhattan,Lincoln Square                                                 ,MN14,AsnNHE,6733.0
+Manhattan,Clinton                                                        ,MN15,AsnNHE,5386.0
+Manhattan,Midtown-Midtown South                                          ,MN17,AsnNHE,5460.0
+Manhattan,Turtle Bay-East Midtown                                        ,MN19,AsnNHE,6704.0
+Manhattan,Murray Hill-Kips Bay                                           ,MN20,AsnNHE,7379.0
+Manhattan,Gramercy                                                       ,MN21,AsnNHE,3217.0
+Manhattan,East Village                                                   ,MN22,AsnNHE,6060.0
+Manhattan,West Village                                                   ,MN23,AsnNHE,5870.0
+Manhattan,SoHo-TriBeCa-Civic Center-Little Italy                         ,MN24,AsnNHE,9180.0
+Manhattan,Battery Park City-Lower Manhattan                              ,MN25,AsnNHE,8208.0
+Manhattan,Chinatown                                                      ,MN27,AsnNHE,29295.0
+Manhattan,Lower East Side                                                ,MN28,AsnNHE,19186.0
+Manhattan,Lenox Hill-Roosevelt Island                                    ,MN31,AsnNHE,8210.0
+Manhattan,Yorkville                                                      ,MN32,AsnNHE,6741.0
+Manhattan,East Harlem South                                              ,MN33,AsnNHE,5741.0
+Manhattan,East Harlem North                                              ,MN34,AsnNHE,2943.0
+Manhattan,Washington Heights North                                       ,MN35,AsnNHE,2092.0
+Manhattan,Washington Heights South                                       ,MN36,AsnNHE,2319.0
+Manhattan,Upper East Side-Carnegie Hill                                  ,MN40,AsnNHE,3067.0
+Manhattan,Stuyvesant Town-Cooper Village                                 ,MN50,AsnNHE,3482.0
+Manhattan,park-cemetery-etc-Manhattan                                    ,MN99,AsnNHE,
+Queens,South Jamaica                                                  ,QN01,AsnNHE,2540.0
+Queens,Springfield Gardens North                                      ,QN02,AsnNHE,214.0
+Queens,Springfield Gardens South-Brookville                           ,QN03,AsnNHE,363.0
+Queens,Rosedale                                                       ,QN05,AsnNHE,951.0
+Queens,Jamaica Estates-Holliswood                                     ,QN06,AsnNHE,7835.0
+Queens,Hollis                                                         ,QN07,AsnNHE,3130.0
+Queens,St. Albans                                                     ,QN08,AsnNHE,763.0
+Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad                  ,QN10,AsnNHE,570.0
+Queens,Hammels-Arverne-Edgemere                                       ,QN12,AsnNHE,1426.0
+Queens,Far Rockaway-Bayswater                                         ,QN15,AsnNHE,1206.0
+Queens,Forest Hills                                                   ,QN17,AsnNHE,20251.0
+Queens,Rego Park                                                      ,QN18,AsnNHE,8068.0
+Queens,Glendale                                                       ,QN19,AsnNHE,1146.0
+Queens,Ridgewood                                                      ,QN20,AsnNHE,5656.0
+Queens,Middle Village                                                 ,QN21,AsnNHE,3082.0
+Queens,Flushing                                                       ,QN22,AsnNHE,46439.0
+Queens,College Point                                                  ,QN23,AsnNHE,7301.0
+Queens,Corona                                                         ,QN25,AsnNHE,7943.0
+Queens,North Corona                                                   ,QN26,AsnNHE,3896.0
+Queens,East Elmhurst                                                  ,QN27,AsnNHE,1087.0
+Queens,Jackson Heights                                                ,QN28,AsnNHE,24657.0
+Queens,Elmhurst                                                       ,QN29,AsnNHE,39854.0
+Queens,Maspeth                                                        ,QN30,AsnNHE,3239.0
+Queens,Hunters Point-Sunnyside-West Maspeth                           ,QN31,AsnNHE,15866.0
+Queens,Cambria Heights                                                ,QN33,AsnNHE,352.0
+Queens,Queens Village                                                 ,QN34,AsnNHE,10750.0
+Queens,Briarwood-Jamaica Hills                                        ,QN35,AsnNHE,13262.0
+Queens,Kew Gardens Hills                                              ,QN37,AsnNHE,8962.0
+Queens,Pomonok-Flushing Heights-Hillcrest                             ,QN38,AsnNHE,10895.0
+Queens,Fresh Meadows-Utopia                                           ,QN41,AsnNHE,9074.0
+Queens,Oakland Gardens                                                ,QN42,AsnNHE,12617.0
+Queens,Bellerose                                                      ,QN43,AsnNHE,10290.0
+Queens,Glen Oaks-Floral Park-New Hyde Park                            ,QN44,AsnNHE,8249.0
+Queens,Douglas Manor-Douglaston-Little Neck                           ,QN45,AsnNHE,9598.0
+Queens,Bayside-Bayside Hills                                          ,QN46,AsnNHE,17264.0
+Queens,Ft. Totten-Bay Terrace-Clearview                               ,QN47,AsnNHE,4662.0
+Queens,Auburndale                                                     ,QN48,AsnNHE,8921.0
+Queens,Whitestone                                                     ,QN49,AsnNHE,5752.0
+Queens,Elmhurst-Maspeth                                               ,QN50,AsnNHE,14225.0
+Queens,Murray Hill                                                    ,QN51,AsnNHE,28566.0
+Queens,East Flushing                                                  ,QN52,AsnNHE,16362.0
+Queens,Woodhaven                                                      ,QN53,AsnNHE,13554.0
+Queens,Richmond Hill                                                  ,QN54,AsnNHE,19762.0
+Queens,South Ozone Park                                               ,QN55,AsnNHE,18722.0
+Queens,Ozone Park                                                     ,QN56,AsnNHE,5473.0
+Queens,Lindenwood-Howard Beach                                        ,QN57,AsnNHE,696.0
+Queens,Kew Gardens                                                    ,QN60,AsnNHE,3848.0
+Queens,Jamaica                                                        ,QN61,AsnNHE,15630.0
+Queens,Queensboro Hill                                                ,QN62,AsnNHE,13041.0
+Queens,Woodside                                                       ,QN63,AsnNHE,16629.0
+Queens,Laurelton                                                      ,QN66,AsnNHE,340.0
+Queens,Queensbridge-Ravenswood-Long Island City                       ,QN68,AsnNHE,3096.0
+Queens,Astoria                                                        ,QN70,AsnNHE,10218.0
+Queens,Old Astoria                                                    ,QN71,AsnNHE,5101.0
+Queens,Steinway                                                       ,QN72,AsnNHE,4733.0
+Queens,Baisley Park                                                   ,QN76,AsnNHE,1438.0
+Queens,Airport                                                        ,QN98,AsnNHE,
+Queens,park-cemetery-etc-Queens                                       ,QN99,AsnNHE,
+Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville                     ,SI01,AsnNHE,1021.0
+Staten Island,New Springville-Bloomfield-Travis                              ,SI05,AsnNHE,6416.0
+Staten Island,Westerleigh                                                    ,SI07,AsnNHE,1805.0
+Staten Island,Grymes Hill-Clifton-Fox Hills                                  ,SI08,AsnNHE,2553.0
+Staten Island,Charleston-Richmond Valley-Tottenville                         ,SI11,AsnNHE,891.0
+Staten Island,Mariner's Harbor-Arlington-Port Ivory-Granite                  ,SI12,AsnNHE,2361.0
+Staten Island,Grasmere-Arrochar-Ft. Wadsworth                                ,SI14,AsnNHE,2149.0
+Staten Island,West New Brighton-New Brighton-St. George                      ,SI22,AsnNHE,1531.0
+Staten Island,Todt Hill-Emerson Hill-Heartland Village-Ligh                  ,SI24,AsnNHE,4631.0
+Staten Island,Oakwood-Oakwood Beach                                          ,SI25,AsnNHE,658.0
+Staten Island,Port Richmond                                                  ,SI28,AsnNHE,870.0
+Staten Island,Rossville-Woodrow                                              ,SI32,AsnNHE,1016.0
+Staten Island,New Brighton-Silver Lake                                       ,SI35,AsnNHE,948.0
+Staten Island,Old Town-Dongan Hills-South Beach                              ,SI36,AsnNHE,2421.0
+Staten Island,Stapleton-Rosebank                                             ,SI37,AsnNHE,2511.0
+Staten Island,New Dorp-Midland Beach                                         ,SI45,AsnNHE,1592.0
+Staten Island,Arden Heights                                                  ,SI48,AsnNHE,1550.0
+Staten Island,Great Kills                                                    ,SI54,AsnNHE,1555.0
+Staten Island,park-cemetery-etc-Staten Island                                ,SI99,AsnNHE,
+Brooklyn,Brooklyn Heights-Cobble Hill                                   ,BK09,NHPINHE,0.0
+Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beac                  ,BK17,NHPINHE,99.0
+Brooklyn,Brighton Beach                                                 ,BK19,NHPINHE,0.0
+Brooklyn,Seagate-Coney Island                                           ,BK21,NHPINHE,28.0
+Brooklyn,West Brighton                                                  ,BK23,NHPINHE,0.0
+Brooklyn,Homecrest                                                      ,BK25,NHPINHE,0.0
+Brooklyn,Gravesend                                                      ,BK26,NHPINHE,0.0
+Brooklyn,Bath Beach                                                     ,BK27,NHPINHE,0.0
+Brooklyn,Bensonhurst West                                               ,BK28,NHPINHE,0.0
+Brooklyn,Bensonhurst East                                               ,BK29,NHPINHE,0.0
+Brooklyn,Dyker Heights                                                  ,BK30,NHPINHE,25.0
+Brooklyn,Bay Ridge                                                      ,BK31,NHPINHE,113.0
+Brooklyn,Sunset Park West                                               ,BK32,NHPINHE,15.0
+Brooklyn,Carroll Gardens-Columbia Street-Red Hook                       ,BK33,NHPINHE,0.0
+Brooklyn,Sunset Park East                                               ,BK34,NHPINHE,38.0
+Brooklyn,Stuyvesant Heights                                             ,BK35,NHPINHE,0.0
+Brooklyn,Park Slope-Gowanus                                             ,BK37,NHPINHE,0.0
+Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum H                  ,BK38,NHPINHE,0.0
+Brooklyn,Windsor Terrace                                                ,BK40,NHPINHE,0.0
+Brooklyn,Kensington-Ocean Parkway                                       ,BK41,NHPINHE,0.0
+Brooklyn,Flatbush                                                       ,BK42,NHPINHE,28.0
+Brooklyn,Midwood                                                        ,BK43,NHPINHE,0.0
+Brooklyn,Madison                                                        ,BK44,NHPINHE,0.0
+Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basi                  ,BK45,NHPINHE,191.0
+Brooklyn,Ocean Parkway South                                            ,BK46,NHPINHE,0.0
+Brooklyn,Canarsie                                                       ,BK50,NHPINHE,0.0
+Brooklyn,Flatlands                                                      ,BK58,NHPINHE,0.0
+Brooklyn,Prospect Lefferts Gardens-Wingate                              ,BK60,NHPINHE,0.0
+Brooklyn,Crown Heights North                                            ,BK61,NHPINHE,0.0
+Brooklyn,Crown Heights South                                            ,BK63,NHPINHE,0.0
+Brooklyn,Prospect Heights                                               ,BK64,NHPINHE,0.0
+Brooklyn,Fort Greene                                                    ,BK68,NHPINHE,0.0
+Brooklyn,Clinton Hill                                                   ,BK69,NHPINHE,0.0
+Brooklyn,Williamsburg                                                   ,BK72,NHPINHE,0.0
+Brooklyn,North Side-South Side                                          ,BK73,NHPINHE,0.0
+Brooklyn,Bedford                                                        ,BK75,NHPINHE,0.0
+Brooklyn,Greenpoint                                                     ,BK76,NHPINHE,0.0
+Brooklyn,Bushwick North                                                 ,BK77,NHPINHE,0.0
+Brooklyn,Bushwick South                                                 ,BK78,NHPINHE,0.0
+Brooklyn,Ocean Hill                                                     ,BK79,NHPINHE,17.0
+Brooklyn,Brownsville                                                    ,BK81,NHPINHE,9.0
+Brooklyn,East New York                                                  ,BK82,NHPINHE,263.0
+Brooklyn,Cypress Hills-City Line                                        ,BK83,NHPINHE,0.0
+Brooklyn,East New York (Pennsylvania Ave)                               ,BK85,NHPINHE,11.0
+Brooklyn,Borough Park                                                   ,BK88,NHPINHE,0.0
+Brooklyn,East Williamsburg                                              ,BK90,NHPINHE,0.0
+Brooklyn,East Flatbush-Farragut                                         ,BK91,NHPINHE,0.0
+Brooklyn,Starrett City                                                  ,BK93,NHPINHE,0.0
+Brooklyn,Erasmus                                                        ,BK95,NHPINHE,0.0
+Brooklyn,Rugby-Remsen Village                                           ,BK96,NHPINHE,0.0
+Brooklyn,park-cemetery-etc-Brooklyn                                     ,BK99,NHPINHE,
+Bronx,Claremont-Bathgate                                             ,BX01,NHPINHE,0.0
+Bronx,Eastchester-Edenwald-Baychester                                ,BX03,NHPINHE,257.0
+Bronx,Bedford Park-Fordham North                                     ,BX05,NHPINHE,60.0
+Bronx,Belmont                                                        ,BX06,NHPINHE,0.0
+Bronx,Bronxdale                                                      ,BX07,NHPINHE,0.0
+Bronx,West Farms-Bronx River                                         ,BX08,NHPINHE,0.0
+Bronx,Soundview-Castle Hill-Clason Point-Harding Pa                  ,BX09,NHPINHE,0.0
+Bronx,Pelham Bay-Country Club-City Island                            ,BX10,NHPINHE,0.0
+Bronx,Co-Op City                                                     ,BX13,NHPINHE,0.0
+Bronx,East Concourse-Concourse Village                               ,BX14,NHPINHE,0.0
+Bronx,East Tremont                                                   ,BX17,NHPINHE,0.0
+Bronx,North Riverdale-Fieldston-Riverdale                            ,BX22,NHPINHE,0.0
+Bronx,Highbridge                                                     ,BX26,NHPINHE,0.0
+Bronx,Hunts Point                                                    ,BX27,NHPINHE,0.0
+Bronx,Van Cortlandt Village                                          ,BX28,NHPINHE,0.0
+Bronx,Spuyten Duyvil-Kingsbridge                                     ,BX29,NHPINHE,128.0
+Bronx,Kingsbridge Heights                                            ,BX30,NHPINHE,0.0
+Bronx,Allerton-Pelham Gardens                                        ,BX31,NHPINHE,0.0
+Bronx,Longwood                                                       ,BX33,NHPINHE,49.0
+Bronx,Melrose South-Mott Haven North                                 ,BX34,NHPINHE,0.0
+Bronx,Morrisania-Melrose                                             ,BX35,NHPINHE,0.0
+Bronx,University Heights-Morris Heights                              ,BX36,NHPINHE,9.0
+Bronx,Van Nest-Morris Park-Westchester Square                        ,BX37,NHPINHE,22.0
+Bronx,Mott Haven-Port Morris                                         ,BX39,NHPINHE,0.0
+Bronx,Fordham South                                                  ,BX40,NHPINHE,0.0
+Bronx,Mount Hope                                                     ,BX41,NHPINHE,0.0
+Bronx,Norwood                                                        ,BX43,NHPINHE,0.0
+Bronx,Williamsbridge-Olinville                                       ,BX44,NHPINHE,52.0
+Bronx,Parkchester                                                    ,BX46,NHPINHE,0.0
+Bronx,Pelham Parkway                                                 ,BX49,NHPINHE,0.0
+Bronx,Schuylerville-Throgs Neck-Edgewater Park                       ,BX52,NHPINHE,0.0
+Bronx,Soundview-Bruckner                                             ,BX55,NHPINHE,0.0
+Bronx,Westchester-Unionport                                          ,BX59,NHPINHE,0.0
+Bronx,Woodlawn-Wakefield                                             ,BX62,NHPINHE,0.0
+Bronx,West Concourse                                                 ,BX63,NHPINHE,40.0
+Bronx,Crotona Park East                                              ,BX75,NHPINHE,0.0
+Bronx,Rikers Island                                                  ,BX98,NHPINHE,0.0
+Bronx,park-cemetery-etc-Bronx                                        ,BX99,NHPINHE,
+Manhattan,Marble Hill-Inwood                                             ,MN01,NHPINHE,15.0
+Manhattan,Central Harlem North-Polo Grounds                              ,MN03,NHPINHE,52.0
+Manhattan,Hamilton Heights                                               ,MN04,NHPINHE,0.0
+Manhattan,Manhattanville                                                 ,MN06,NHPINHE,25.0
+Manhattan,Morningside Heights                                            ,MN09,NHPINHE,7.0
+Manhattan,Central Harlem South                                           ,MN11,NHPINHE,0.0
+Manhattan,Upper West Side                                                ,MN12,NHPINHE,0.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,NHPINHE,0.0
+Manhattan,Lincoln Square                                                 ,MN14,NHPINHE,7.0
+Manhattan,Clinton                                                        ,MN15,NHPINHE,0.0
+Manhattan,Midtown-Midtown South                                          ,MN17,NHPINHE,13.0
+Manhattan,Turtle Bay-East Midtown                                        ,MN19,NHPINHE,7.0
+Manhattan,Murray Hill-Kips Bay                                           ,MN20,NHPINHE,0.0
+Manhattan,Gramercy                                                       ,MN21,NHPINHE,12.0
+Manhattan,East Village                                                   ,MN22,NHPINHE,74.0
+Manhattan,West Village                                                   ,MN23,NHPINHE,46.0
+Manhattan,SoHo-TriBeCa-Civic Center-Little Italy                         ,MN24,NHPINHE,13.0
+Manhattan,Battery Park City-Lower Manhattan                              ,MN25,NHPINHE,0.0
+Manhattan,Chinatown                                                      ,MN27,NHPINHE,0.0
+Manhattan,Lower East Side                                                ,MN28,NHPINHE,105.0
+Manhattan,Lenox Hill-Roosevelt Island                                    ,MN31,NHPINHE,80.0
+Manhattan,Yorkville                                                      ,MN32,NHPINHE,80.0
+Manhattan,East Harlem South                                              ,MN33,NHPINHE,138.0
+Manhattan,East Harlem North                                              ,MN34,NHPINHE,0.0
+Manhattan,Washington Heights North                                       ,MN35,NHPINHE,0.0
+Manhattan,Washington Heights South                                       ,MN36,NHPINHE,0.0
+Manhattan,Upper East Side-Carnegie Hill                                  ,MN40,NHPINHE,0.0
+Manhattan,Stuyvesant Town-Cooper Village                                 ,MN50,NHPINHE,0.0
+Manhattan,park-cemetery-etc-Manhattan                                    ,MN99,NHPINHE,
+Queens,South Jamaica                                                  ,QN01,NHPINHE,26.0
+Queens,Springfield Gardens North                                      ,QN02,NHPINHE,11.0
+Queens,Springfield Gardens South-Brookville                           ,QN03,NHPINHE,0.0
+Queens,Rosedale                                                       ,QN05,NHPINHE,0.0
+Queens,Jamaica Estates-Holliswood                                     ,QN06,NHPINHE,0.0
+Queens,Hollis                                                         ,QN07,NHPINHE,90.0
+Queens,St. Albans                                                     ,QN08,NHPINHE,24.0
+Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad                  ,QN10,NHPINHE,0.0
+Queens,Hammels-Arverne-Edgemere                                       ,QN12,NHPINHE,0.0
+Queens,Far Rockaway-Bayswater                                         ,QN15,NHPINHE,0.0
+Queens,Forest Hills                                                   ,QN17,NHPINHE,46.0
+Queens,Rego Park                                                      ,QN18,NHPINHE,0.0
+Queens,Glendale                                                       ,QN19,NHPINHE,12.0
+Queens,Ridgewood                                                      ,QN20,NHPINHE,0.0
+Queens,Middle Village                                                 ,QN21,NHPINHE,0.0
+Queens,Flushing                                                       ,QN22,NHPINHE,0.0
+Queens,College Point                                                  ,QN23,NHPINHE,0.0
+Queens,Corona                                                         ,QN25,NHPINHE,230.0
+Queens,North Corona                                                   ,QN26,NHPINHE,0.0
+Queens,East Elmhurst                                                  ,QN27,NHPINHE,0.0
+Queens,Jackson Heights                                                ,QN28,NHPINHE,0.0
+Queens,Elmhurst                                                       ,QN29,NHPINHE,0.0
+Queens,Maspeth                                                        ,QN30,NHPINHE,19.0
+Queens,Hunters Point-Sunnyside-West Maspeth                           ,QN31,NHPINHE,0.0
+Queens,Cambria Heights                                                ,QN33,NHPINHE,0.0
+Queens,Queens Village                                                 ,QN34,NHPINHE,92.0
+Queens,Briarwood-Jamaica Hills                                        ,QN35,NHPINHE,0.0
+Queens,Kew Gardens Hills                                              ,QN37,NHPINHE,0.0
+Queens,Pomonok-Flushing Heights-Hillcrest                             ,QN38,NHPINHE,0.0
+Queens,Fresh Meadows-Utopia                                           ,QN41,NHPINHE,16.0
+Queens,Oakland Gardens                                                ,QN42,NHPINHE,73.0
+Queens,Bellerose                                                      ,QN43,NHPINHE,0.0
+Queens,Glen Oaks-Floral Park-New Hyde Park                            ,QN44,NHPINHE,0.0
+Queens,Douglas Manor-Douglaston-Little Neck                           ,QN45,NHPINHE,5.0
+Queens,Bayside-Bayside Hills                                          ,QN46,NHPINHE,11.0
+Queens,Ft. Totten-Bay Terrace-Clearview                               ,QN47,NHPINHE,0.0
+Queens,Auburndale                                                     ,QN48,NHPINHE,59.0
+Queens,Whitestone                                                     ,QN49,NHPINHE,0.0
+Queens,Elmhurst-Maspeth                                               ,QN50,NHPINHE,0.0
+Queens,Murray Hill                                                    ,QN51,NHPINHE,0.0
+Queens,East Flushing                                                  ,QN52,NHPINHE,0.0
+Queens,Woodhaven                                                      ,QN53,NHPINHE,0.0
+Queens,Richmond Hill                                                  ,QN54,NHPINHE,0.0
+Queens,South Ozone Park                                               ,QN55,NHPINHE,203.0
+Queens,Ozone Park                                                     ,QN56,NHPINHE,0.0
+Queens,Lindenwood-Howard Beach                                        ,QN57,NHPINHE,0.0
+Queens,Kew Gardens                                                    ,QN60,NHPINHE,0.0
+Queens,Jamaica                                                        ,QN61,NHPINHE,0.0
+Queens,Queensboro Hill                                                ,QN62,NHPINHE,0.0
+Queens,Woodside                                                       ,QN63,NHPINHE,91.0
+Queens,Laurelton                                                      ,QN66,NHPINHE,27.0
+Queens,Queensbridge-Ravenswood-Long Island City                       ,QN68,NHPINHE,0.0
+Queens,Astoria                                                        ,QN70,NHPINHE,0.0
+Queens,Old Astoria                                                    ,QN71,NHPINHE,49.0
+Queens,Steinway                                                       ,QN72,NHPINHE,0.0
+Queens,Baisley Park                                                   ,QN76,NHPINHE,0.0
+Queens,Airport                                                        ,QN98,NHPINHE,
+Queens,park-cemetery-etc-Queens                                       ,QN99,NHPINHE,
+Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville                     ,SI01,NHPINHE,0.0
+Staten Island,New Springville-Bloomfield-Travis                              ,SI05,NHPINHE,0.0
+Staten Island,Westerleigh                                                    ,SI07,NHPINHE,0.0
+Staten Island,Grymes Hill-Clifton-Fox Hills                                  ,SI08,NHPINHE,0.0
+Staten Island,Charleston-Richmond Valley-Tottenville                         ,SI11,NHPINHE,0.0
+Staten Island,Mariner's Harbor-Arlington-Port Ivory-Granite                  ,SI12,NHPINHE,0.0
+Staten Island,Grasmere-Arrochar-Ft. Wadsworth                                ,SI14,NHPINHE,0.0
+Staten Island,West New Brighton-New Brighton-St. George                      ,SI22,NHPINHE,0.0
+Staten Island,Todt Hill-Emerson Hill-Heartland Village-Ligh                  ,SI24,NHPINHE,0.0
+Staten Island,Oakwood-Oakwood Beach                                          ,SI25,NHPINHE,0.0
+Staten Island,Port Richmond                                                  ,SI28,NHPINHE,0.0
+Staten Island,Rossville-Woodrow                                              ,SI32,NHPINHE,0.0
+Staten Island,New Brighton-Silver Lake                                       ,SI35,NHPINHE,0.0
+Staten Island,Old Town-Dongan Hills-South Beach                              ,SI36,NHPINHE,0.0
+Staten Island,Stapleton-Rosebank                                             ,SI37,NHPINHE,0.0
+Staten Island,New Dorp-Midland Beach                                         ,SI45,NHPINHE,0.0
+Staten Island,Arden Heights                                                  ,SI48,NHPINHE,0.0
+Staten Island,Great Kills                                                    ,SI54,NHPINHE,0.0
+Staten Island,park-cemetery-etc-Staten Island                                ,SI99,NHPINHE,
+Brooklyn,Brooklyn Heights-Cobble Hill                                   ,BK09,OthNHE,22.0
+Brooklyn,Sheepshead Bay-Gerritsen Beach-Manhattan Beac                  ,BK17,OthNHE,40.0
+Brooklyn,Brighton Beach                                                 ,BK19,OthNHE,0.0
+Brooklyn,Seagate-Coney Island                                           ,BK21,OthNHE,275.0
+Brooklyn,West Brighton                                                  ,BK23,OthNHE,0.0
+Brooklyn,Homecrest                                                      ,BK25,OthNHE,144.0
+Brooklyn,Gravesend                                                      ,BK26,OthNHE,15.0
+Brooklyn,Bath Beach                                                     ,BK27,OthNHE,74.0
+Brooklyn,Bensonhurst West                                               ,BK28,OthNHE,170.0
+Brooklyn,Bensonhurst East                                               ,BK29,OthNHE,110.0
+Brooklyn,Dyker Heights                                                  ,BK30,OthNHE,25.0
+Brooklyn,Bay Ridge                                                      ,BK31,OthNHE,119.0
+Brooklyn,Sunset Park West                                               ,BK32,OthNHE,192.0
+Brooklyn,Carroll Gardens-Columbia Street-Red Hook                       ,BK33,OthNHE,37.0
+Brooklyn,Sunset Park East                                               ,BK34,OthNHE,91.0
+Brooklyn,Stuyvesant Heights                                             ,BK35,OthNHE,158.0
+Brooklyn,Park Slope-Gowanus                                             ,BK37,OthNHE,321.0
+Brooklyn,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum H                  ,BK38,OthNHE,69.0
+Brooklyn,Windsor Terrace                                                ,BK40,OthNHE,75.0
+Brooklyn,Kensington-Ocean Parkway                                       ,BK41,OthNHE,157.0
+Brooklyn,Flatbush                                                       ,BK42,OthNHE,829.0
+Brooklyn,Midwood                                                        ,BK43,OthNHE,84.0
+Brooklyn,Madison                                                        ,BK44,OthNHE,51.0
+Brooklyn,Georgetown-Marine Park-Bergen Beach-Mill Basi                  ,BK45,OthNHE,122.0
+Brooklyn,Ocean Parkway South                                            ,BK46,OthNHE,20.0
+Brooklyn,Canarsie                                                       ,BK50,OthNHE,475.0
+Brooklyn,Flatlands                                                      ,BK58,OthNHE,269.0
+Brooklyn,Prospect Lefferts Gardens-Wingate                              ,BK60,OthNHE,271.0
+Brooklyn,Crown Heights North                                            ,BK61,OthNHE,385.0
+Brooklyn,Crown Heights South                                            ,BK63,OthNHE,152.0
+Brooklyn,Prospect Heights                                               ,BK64,OthNHE,146.0
+Brooklyn,Fort Greene                                                    ,BK68,OthNHE,203.0
+Brooklyn,Clinton Hill                                                   ,BK69,OthNHE,148.0
+Brooklyn,Williamsburg                                                   ,BK72,OthNHE,0.0
+Brooklyn,North Side-South Side                                          ,BK73,OthNHE,271.0
+Brooklyn,Bedford                                                        ,BK75,OthNHE,320.0
+Brooklyn,Greenpoint                                                     ,BK76,OthNHE,87.0
+Brooklyn,Bushwick North                                                 ,BK77,OthNHE,166.0
+Brooklyn,Bushwick South                                                 ,BK78,OthNHE,198.0
+Brooklyn,Ocean Hill                                                     ,BK79,OthNHE,73.0
+Brooklyn,Brownsville                                                    ,BK81,OthNHE,231.0
+Brooklyn,East New York                                                  ,BK82,OthNHE,568.0
+Brooklyn,Cypress Hills-City Line                                        ,BK83,OthNHE,550.0
+Brooklyn,East New York (Pennsylvania Ave)                               ,BK85,OthNHE,34.0
+Brooklyn,Borough Park                                                   ,BK88,OthNHE,121.0
+Brooklyn,East Williamsburg                                              ,BK90,OthNHE,118.0
+Brooklyn,East Flatbush-Farragut                                         ,BK91,OthNHE,253.0
+Brooklyn,Starrett City                                                  ,BK93,OthNHE,0.0
+Brooklyn,Erasmus                                                        ,BK95,OthNHE,25.0
+Brooklyn,Rugby-Remsen Village                                           ,BK96,OthNHE,203.0
+Brooklyn,park-cemetery-etc-Brooklyn                                     ,BK99,OthNHE,
+Bronx,Claremont-Bathgate                                             ,BX01,OthNHE,123.0
+Bronx,Eastchester-Edenwald-Baychester                                ,BX03,OthNHE,77.0
+Bronx,Bedford Park-Fordham North                                     ,BX05,OthNHE,296.0
+Bronx,Belmont                                                        ,BX06,OthNHE,148.0
+Bronx,Bronxdale                                                      ,BX07,OthNHE,127.0
+Bronx,West Farms-Bronx River                                         ,BX08,OthNHE,478.0
+Bronx,Soundview-Castle Hill-Clason Point-Harding Pa                  ,BX09,OthNHE,371.0
+Bronx,Pelham Bay-Country Club-City Island                            ,BX10,OthNHE,169.0
+Bronx,Co-Op City                                                     ,BX13,OthNHE,125.0
+Bronx,East Concourse-Concourse Village                               ,BX14,OthNHE,307.0
+Bronx,East Tremont                                                   ,BX17,OthNHE,157.0
+Bronx,North Riverdale-Fieldston-Riverdale                            ,BX22,OthNHE,45.0
+Bronx,Highbridge                                                     ,BX26,OthNHE,108.0
+Bronx,Hunts Point                                                    ,BX27,OthNHE,50.0
+Bronx,Van Cortlandt Village                                          ,BX28,OthNHE,209.0
+Bronx,Spuyten Duyvil-Kingsbridge                                     ,BX29,OthNHE,229.0
+Bronx,Kingsbridge Heights                                            ,BX30,OthNHE,99.0
+Bronx,Allerton-Pelham Gardens                                        ,BX31,OthNHE,461.0
+Bronx,Longwood                                                       ,BX33,OthNHE,85.0
+Bronx,Melrose South-Mott Haven North                                 ,BX34,OthNHE,158.0
+Bronx,Morrisania-Melrose                                             ,BX35,OthNHE,116.0
+Bronx,University Heights-Morris Heights                              ,BX36,OthNHE,149.0
+Bronx,Van Nest-Morris Park-Westchester Square                        ,BX37,OthNHE,72.0
+Bronx,Mott Haven-Port Morris                                         ,BX39,OthNHE,108.0
+Bronx,Fordham South                                                  ,BX40,OthNHE,23.0
+Bronx,Mount Hope                                                     ,BX41,OthNHE,444.0
+Bronx,Norwood                                                        ,BX43,OthNHE,495.0
+Bronx,Williamsbridge-Olinville                                       ,BX44,OthNHE,507.0
+Bronx,Parkchester                                                    ,BX46,OthNHE,120.0
+Bronx,Pelham Parkway                                                 ,BX49,OthNHE,340.0
+Bronx,Schuylerville-Throgs Neck-Edgewater Park                       ,BX52,OthNHE,539.0
+Bronx,Soundview-Bruckner                                             ,BX55,OthNHE,575.0
+Bronx,Westchester-Unionport                                          ,BX59,OthNHE,604.0
+Bronx,Woodlawn-Wakefield                                             ,BX62,OthNHE,291.0
+Bronx,West Concourse                                                 ,BX63,OthNHE,278.0
+Bronx,Crotona Park East                                              ,BX75,OthNHE,252.0
+Bronx,Rikers Island                                                  ,BX98,OthNHE,3.0
+Bronx,park-cemetery-etc-Bronx                                        ,BX99,OthNHE,
+Manhattan,Marble Hill-Inwood                                             ,MN01,OthNHE,165.0
+Manhattan,Central Harlem North-Polo Grounds                              ,MN03,OthNHE,235.0
+Manhattan,Hamilton Heights                                               ,MN04,OthNHE,55.0
+Manhattan,Manhattanville                                                 ,MN06,OthNHE,183.0
+Manhattan,Morningside Heights                                            ,MN09,OthNHE,396.0
+Manhattan,Central Harlem South                                           ,MN11,OthNHE,389.0
+Manhattan,Upper West Side                                                ,MN12,OthNHE,456.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,OthNHE,243.0
+Manhattan,Lincoln Square                                                 ,MN14,OthNHE,113.0
+Manhattan,Clinton                                                        ,MN15,OthNHE,263.0
+Manhattan,Midtown-Midtown South                                          ,MN17,OthNHE,188.0
+Manhattan,Turtle Bay-East Midtown                                        ,MN19,OthNHE,101.0
+Manhattan,Murray Hill-Kips Bay                                           ,MN20,OthNHE,242.0
+Manhattan,Gramercy                                                       ,MN21,OthNHE,184.0
+Manhattan,East Village                                                   ,MN22,OthNHE,28.0
+Manhattan,West Village                                                   ,MN23,OthNHE,281.0
+Manhattan,SoHo-TriBeCa-Civic Center-Little Italy                         ,MN24,OthNHE,280.0
+Manhattan,Battery Park City-Lower Manhattan                              ,MN25,OthNHE,77.0
+Manhattan,Chinatown                                                      ,MN27,OthNHE,461.0
+Manhattan,Lower East Side                                                ,MN28,OthNHE,731.0
+Manhattan,Lenox Hill-Roosevelt Island                                    ,MN31,OthNHE,126.0
+Manhattan,Yorkville                                                      ,MN32,OthNHE,220.0
+Manhattan,East Harlem South                                              ,MN33,OthNHE,650.0
+Manhattan,East Harlem North                                              ,MN34,OthNHE,404.0
+Manhattan,Washington Heights North                                       ,MN35,OthNHE,216.0
+Manhattan,Washington Heights South                                       ,MN36,OthNHE,549.0
+Manhattan,Upper East Side-Carnegie Hill                                  ,MN40,OthNHE,115.0
+Manhattan,Stuyvesant Town-Cooper Village                                 ,MN50,OthNHE,110.0
+Manhattan,park-cemetery-etc-Manhattan                                    ,MN99,OthNHE,
+Queens,South Jamaica                                                  ,QN01,OthNHE,2013.0
+Queens,Springfield Gardens North                                      ,QN02,OthNHE,51.0
+Queens,Springfield Gardens South-Brookville                           ,QN03,OthNHE,160.0
+Queens,Rosedale                                                       ,QN05,OthNHE,16.0
+Queens,Jamaica Estates-Holliswood                                     ,QN06,OthNHE,281.0
+Queens,Hollis                                                         ,QN07,OthNHE,693.0
+Queens,St. Albans                                                     ,QN08,OthNHE,553.0
+Queens,Breezy Point-Belle Harbor-Rockaway Park-Broad                  ,QN10,OthNHE,13.0
+Queens,Hammels-Arverne-Edgemere                                       ,QN12,OthNHE,273.0
+Queens,Far Rockaway-Bayswater                                         ,QN15,OthNHE,302.0
+Queens,Forest Hills                                                   ,QN17,OthNHE,306.0
+Queens,Rego Park                                                      ,QN18,OthNHE,184.0
+Queens,Glendale                                                       ,QN19,OthNHE,0.0
+Queens,Ridgewood                                                      ,QN20,OthNHE,131.0
+Queens,Middle Village                                                 ,QN21,OthNHE,0.0
+Queens,Flushing                                                       ,QN22,OthNHE,437.0
+Queens,College Point                                                  ,QN23,OthNHE,61.0
+Queens,Corona                                                         ,QN25,OthNHE,132.0
+Queens,North Corona                                                   ,QN26,OthNHE,104.0
+Queens,East Elmhurst                                                  ,QN27,OthNHE,165.0
+Queens,Jackson Heights                                                ,QN28,OthNHE,807.0
+Queens,Elmhurst                                                       ,QN29,OthNHE,281.0
+Queens,Maspeth                                                        ,QN30,OthNHE,8.0
+Queens,Hunters Point-Sunnyside-West Maspeth                           ,QN31,OthNHE,218.0
+Queens,Cambria Heights                                                ,QN33,OthNHE,13.0
+Queens,Queens Village                                                 ,QN34,OthNHE,1724.0
+Queens,Briarwood-Jamaica Hills                                        ,QN35,OthNHE,856.0
+Queens,Kew Gardens Hills                                              ,QN37,OthNHE,175.0
+Queens,Pomonok-Flushing Heights-Hillcrest                             ,QN38,OthNHE,186.0
+Queens,Fresh Meadows-Utopia                                           ,QN41,OthNHE,35.0
+Queens,Oakland Gardens                                                ,QN42,OthNHE,155.0
+Queens,Bellerose                                                      ,QN43,OthNHE,528.0
+Queens,Glen Oaks-Floral Park-New Hyde Park                            ,QN44,OthNHE,186.0
+Queens,Douglas Manor-Douglaston-Little Neck                           ,QN45,OthNHE,60.0
+Queens,Bayside-Bayside Hills                                          ,QN46,OthNHE,237.0
+Queens,Ft. Totten-Bay Terrace-Clearview                               ,QN47,OthNHE,54.0
+Queens,Auburndale                                                     ,QN48,OthNHE,90.0
+Queens,Whitestone                                                     ,QN49,OthNHE,45.0
+Queens,Elmhurst-Maspeth                                               ,QN50,OthNHE,47.0
+Queens,Murray Hill                                                    ,QN51,OthNHE,149.0
+Queens,East Flushing                                                  ,QN52,OthNHE,221.0
+Queens,Woodhaven                                                      ,QN53,OthNHE,611.0
+Queens,Richmond Hill                                                  ,QN54,OthNHE,7092.0
+Queens,South Ozone Park                                               ,QN55,OthNHE,14999.0
+Queens,Ozone Park                                                     ,QN56,OthNHE,279.0
+Queens,Lindenwood-Howard Beach                                        ,QN57,OthNHE,111.0
+Queens,Kew Gardens                                                    ,QN60,OthNHE,98.0
+Queens,Jamaica                                                        ,QN61,OthNHE,2439.0
+Queens,Queensboro Hill                                                ,QN62,OthNHE,58.0
+Queens,Woodside                                                       ,QN63,OthNHE,139.0
+Queens,Laurelton                                                      ,QN66,OthNHE,166.0
+Queens,Queensbridge-Ravenswood-Long Island City                       ,QN68,OthNHE,128.0
+Queens,Astoria                                                        ,QN70,OthNHE,412.0
+Queens,Old Astoria                                                    ,QN71,OthNHE,49.0
+Queens,Steinway                                                       ,QN72,OthNHE,117.0
+Queens,Baisley Park                                                   ,QN76,OthNHE,1775.0
+Queens,Airport                                                        ,QN98,OthNHE,
+Queens,park-cemetery-etc-Queens                                       ,QN99,OthNHE,
+Staten Island,Annadale-Huguenot-Prince's Bay-Eltingville                     ,SI01,OthNHE,0.0
+Staten Island,New Springville-Bloomfield-Travis                              ,SI05,OthNHE,128.0
+Staten Island,Westerleigh                                                    ,SI07,OthNHE,256.0
+Staten Island,Grymes Hill-Clifton-Fox Hills                                  ,SI08,OthNHE,36.0
+Staten Island,Charleston-Richmond Valley-Tottenville                         ,SI11,OthNHE,0.0
+Staten Island,Mariner's Harbor-Arlington-Port Ivory-Granite                  ,SI12,OthNHE,81.0
+Staten Island,Grasmere-Arrochar-Ft. Wadsworth                                ,SI14,OthNHE,0.0
+Staten Island,West New Brighton-New Brighton-St. George                      ,SI22,OthNHE,112.0
+Staten Island,Todt Hill-Emerson Hill-Heartland Village-Ligh                  ,SI24,OthNHE,51.0
+Staten Island,Oakwood-Oakwood Beach                                          ,SI25,OthNHE,14.0
+Staten Island,Port Richmond                                                  ,SI28,OthNHE,201.0
+Staten Island,Rossville-Woodrow                                              ,SI32,OthNHE,0.0
+Staten Island,New Brighton-Silver Lake                                       ,SI35,OthNHE,20.0
+Staten Island,Old Town-Dongan Hills-South Beach                              ,SI36,OthNHE,15.0
+Staten Island,Stapleton-Rosebank                                             ,SI37,OthNHE,46.0
+Staten Island,New Dorp-Midland Beach                                         ,SI45,OthNHE,6.0
+Staten Island,Arden Heights                                                  ,SI48,OthNHE,23.0
+Staten Island,Great Kills                                                    ,SI54,OthNHE,0.0
+Staten Island,park-cemetery-etc-Staten Island                                ,SI99,OthNHE,
