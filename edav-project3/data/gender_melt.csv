@@ -1,0 +1,5 @@
+borough,neighborhood,id,gender,estimate
+Brooklyn,Brownsville                                                    ,BK81,MaleE,23410.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,MaleE,36779.0
+Brooklyn,Brownsville                                                    ,BK81,FemE,35053.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,FemE,36224.0

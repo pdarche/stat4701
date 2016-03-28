@@ -21,6 +21,7 @@ demo <- read.csv('./data/demo.csv')
 # read in the race data
 race.melted <- read.csv('./data/race_melt.csv')
 age.melted <- read.csv('./data/age_melt.csv')
+gender.melted <- read.csv('./data/gender_melt.csv')
 # Prep the shape files
 shp <- readOGR("./data/nynta_16a/","nynta") %>% spTransform(CRS("+proj=longlat +datum=WGS84"))
 shp.f = shp %>% fortify(region = 'NTACode')
@@ -181,5 +182,40 @@ c_age <- ggplot(ch_age, aes(x=age, y=estimate)) +
        y = "Estimated Population") +
   theme(axis.text.x = element_text(angle = -60, hjust=0))
   
-
 grid.arrange(b_age, c_age, ncol=2)
+
+
+######## GENDER #########
+# Gender Distribution
+bv_gen = gender.melted[age.melted$id=='BK81',]
+b_gen <- ggplot(bv_gen, aes(x=gender, y=estimate)) + 
+  geom_bar(stat='identity', fill='steelblue') +
+  labs(title = "Brownsvill Population Estimate by Gender",
+       x = "Gender",
+       y = "Estimated Population") +
+  theme(axis.text.x = element_text(angle = -60, hjust=0))
+
+ch_gen = gender.melted[age.melted$id=='MN13',]
+c_gen <- ggplot(ch_gen, aes(x=gender, y=estimate)) + 
+  geom_bar(stat='identity', fill='steelblue') +
+  labs(title = "Chelsea Population Estimates by Gender",
+       x = "Gender",
+       y = "Estimated Population") +
+  theme(axis.text.x = element_text(angle = -60, hjust=0))
+
+grid.arrange(b_gen, c_gen, ncol=2)
+
+# Density by Neighborhood
+m <- ggplot(merged, aes(long, lat, group = group)) + 
+  geom_polygon(aes(fill = MaleE)) +
+  labs(title = "Population of Men by Neighborhood",
+       x = "latitude", y = "Longitude") +
+  scale_fill_gradient(low='white', high='green', na.value = 'white')
+
+f <- ggplot(merged, aes(long, lat, group = group)) + 
+  geom_polygon(aes(fill = FemE)) +
+  labs(title = "Population of Women by Neighborhood",
+       x = "latitude", y = "Longitude") +
+  scale_fill_gradient(low='white', high='purple', na.value = 'white')
+
+grid.arrange(m, f, col=2)

@@ -1,0 +1,128 @@
+---
+title: "Project3 Pete"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning=FALSE, message=FALSE)
+
+# Import Libraries
+library(rgdal)
+library(ggplot2)
+library(plyr)
+library(dplyr)
+library(gpclib)
+library(rgeos)
+library(maptools)
+library(gridExtra)
+require("maptools")
+library(ineq)
+
+# Set Wroking Directory
+setwd('~/Desktop/qmss/stat4701/edav-project3/')
+
+# Import the data and create the variables
+# read in the demography data
+demo <- read.csv('./data/demo.csv')
+# read in the race, age, and gender data
+race.melted <- read.csv('./data/race_melt.csv')
+age.melted <- read.csv('./data/age_melt.csv')
+gender.melted <- read.csv('./data/gender_melt.csv')
+
+# Prep the shape files
+shp <- readOGR("./data/nynta_16a/","nynta") %>% spTransform(CRS("+proj=longlat +datum=WGS84"))
+shp.f = shp %>% fortify(region = 'NTACode')
+merged <- merge(shp.f, demo, by.x = 'id', by.y = 'GeoID')
+
+```
+# Demographics
+
+### Gender
+```{r}
+# Gender Distribution
+bv_gen = gender.melted[age.melted$id=='BK81',]
+b_gen <- ggplot(na.omit(bv_gen), aes(x=gender, y=estimate)) + 
+  geom_bar(stat='identity', fill='steelblue') +
+  labs(title = "Brownsvill",
+       x = "Gender",
+       y = "Estimated Population") +
+  theme(axis.text.x = element_text(angle = -60, hjust=0))
+
+ch_gen = gender.melted[age.melted$id=='MN13',]
+c_gen <- ggplot(na.omit(ch_gen), aes(x=gender, y=estimate)) + 
+  geom_bar(stat='identity', fill='steelblue') +
+  labs(title = "Chelsea",
+       x = "Gender",
+       y = "Estimated Population") +
+  theme(axis.text.x = element_text(angle = -60, hjust=0))
+
+grid.arrange(b_gen, c_gen, ncol=2)
+```
+Brownsville has the second largest difference between female and male populations (trailing only Starrett City) with a near 20 percent difference between the number of men and women in the neighborhood.
+
+
+### Age
+```{r}
+bv_age = age.melted[age.melted$id=='BK81',]
+b_age <- ggplot(bv_age, aes(x=age, y=estimate)) + 
+  geom_bar(stat='identity', fill='steelblue') +
+  labs(title = "Brownsvill",
+       x = "Age",
+       y = "Estimated Population") +
+  theme(axis.text.x = element_text(angle = -60, hjust=0))
+ 
+
+ch_age = age.melted[age.melted$id=='MN13',]
+c_age <- ggplot(ch_age, aes(x=age, y=estimate)) + 
+  geom_bar(stat='identity', fill='steelblue') +
+  labs(title = "Chelsea",
+       x = "Age",
+       y = "Estimated Population") +
+  theme(axis.text.x = element_text(angle = -60, hjust=0))
+  
+grid.arrange(b_age, c_age, ncol=2)
+```
+
+Brownsville has the 12th highest proportion of of children (10 to 19 year-olds) at 17% in the city while Chelsea is 183rd at 4% (citywide average is 12%).  
+
+```{r}
+a <- ggplot(merged, aes(long, lat, group = group)) + 
+  geom_polygon(aes(fill = Pop20t24E)) +
+  labs(title = "Population of 20 to 24 Year-olds by Neighborhood",
+       x = "latitude", y = "Longitude") +
+  scale_fill_gradient(low='white', high='red', na.value = 'white')
+
+b <- ggplot(merged, aes(long, lat, group = group)) + 
+  geom_polygon(aes(fill = Pop25t34E)) +
+  labs(title = "Population of 25 to 34 Year-olds by Neighborhood",
+       x = "latitude", y = "Longitude") +
+  scale_fill_gradient(low='white', high='orange', na.value = 'white')
+
+c <- ggplot(merged, aes(long, lat, group = group)) + 
+  geom_polygon(aes(fill = Pop35t44E)) +
+  labs(title = "Population of 35 to 44 Year-olds by Neighborhood",
+       x = "latitude", y = "Longitude") +
+  scale_fill_gradient(low='white', high='yellow', na.value = 'white')
+
+d <- ggplot(merged, aes(long, lat, group = group)) + 
+  geom_polygon(aes(fill = Pop45t54E)) +
+  labs(title = "Population of 45 to 54 Year-olds by Neighborhood",
+       x = "latitude", y = "Longitude") +
+  scale_fill_gradient(low='white', high='green', na.value = 'white')
+
+e <- ggplot(merged, aes(long, lat, group = group)) + 
+  geom_polygon(aes(fill = Pop55t59E)) +
+  labs(title = "Population of 55 to 59 Year-olds by Neighborhood",
+       x = "latitude", y = "Longitude") +
+  scale_fill_gradient(low='white', high='blue', na.value = 'white')
+
+f <- ggplot(merged, aes(long, lat, group = group)) + 
+  geom_polygon(aes(fill = Pop15t19E)) +
+  labs(title = "Population of 15 to 19 Year-olds by Neighborhood",
+       x = "latitude", y = "Longitude") +
+  scale_fill_gradient(low='white', high='green', na.value = 'white')
+
+#grid.arrange(f, a, b, c, d, e, ncols=2)
+```
+
+### Race 
