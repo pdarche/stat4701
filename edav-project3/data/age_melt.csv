@@ -1,0 +1,27 @@
+borough,neighborhood,id,age,estimate
+Brooklyn,Brownsville                                                    ,BK81,Pop10t14E,4924.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,Pop10t14E,1375.0
+Brooklyn,Brownsville                                                    ,BK81,Pop15t19E,5200.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,Pop15t19E,2095.0
+Brooklyn,Brownsville                                                    ,BK81,Pop20t24E,4845.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,Pop20t24E,6058.0
+Brooklyn,Brownsville                                                    ,BK81,Pop25t34E,9253.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,Pop25t34E,19244.0
+Brooklyn,Brownsville                                                    ,BK81,Pop35t44E,7182.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,Pop35t44E,13907.0
+Brooklyn,Brownsville                                                    ,BK81,Pop45t54E,7028.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,Pop45t54E,9813.0
+Brooklyn,Brownsville                                                    ,BK81,Pop55t59E,2652.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,Pop55t59E,4406.0
+Brooklyn,Brownsville                                                    ,BK81,Pop60t64E,2369.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,Pop60t64E,3308.0
+Brooklyn,Brownsville                                                    ,BK81,Pop60t64E,2369.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,Pop60t64E,3308.0
+Brooklyn,Brownsville                                                    ,BK81,Pop65t74E,3284.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,Pop65t74E,4427.0
+Brooklyn,Brownsville                                                    ,BK81,Pop75t84E,1810.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,Pop75t84E,2311.0
+Brooklyn,Brownsville                                                    ,BK81,Pop85plE,476.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,Pop85plE,1061.0
+Brooklyn,Brownsville                                                    ,BK81,Pop85plE,476.0
+Manhattan,Hudson Yards-Chelsea-Flat Iron-Union Square                    ,MN13,Pop85plE,1061.0

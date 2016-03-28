@@ -1,6 +1,7 @@
 install.packages('rgeos')
 install.packages('rgdal')
 install.packages("gpclib", type="source")
+install.packages("ineq")
 
 library(rgdal)
 library(ggplot2)
@@ -11,6 +12,7 @@ library(rgeos)
 library(maptools)
 library(gridExtra)
 require("maptools")
+library(ineq)
 
 # set the working directory
 setwd('~/Desktop/qmss/stat4701/edav-project3/')
@@ -18,6 +20,7 @@ setwd('~/Desktop/qmss/stat4701/edav-project3/')
 demo <- read.csv('./data/demo.csv')
 # read in the race data
 race.melted <- read.csv('./data/race_melt.csv')
+age.melted <- read.csv('./data/age_melt.csv')
 # Prep the shape files
 shp <- readOGR("./data/nynta_16a/","nynta") %>% spTransform(CRS("+proj=longlat +datum=WGS84"))
 shp.f = shp %>% fortify(region = 'NTACode')
@@ -55,25 +58,53 @@ ca <- ggplot(merged, aes(long, lat, group = group)) +
        x = "latitude", y = "Longitude") + 
   scale_fill_gradient(low='white', high='green', na.value = 'white')
 
-
 grid.arrange(cb, cw, ch, ca, ncol=2)
 
-# Zoom in on Brownsville 
-p2 <- ggplot(merged[merged$id=='BK81',], aes(long, lat, group=group)) +
-    geom_polygon(colour="black", fill=NA)
-p2
+
+# Zoom in on Brownsville & Chelsea
+sb <- ggplot(merged[merged$id %in% c('BK81', 'MN13'),], aes(long, lat, group=group)) +
+    geom_polygon(aes(fill = BlNHE)) +
+    scale_fill_gradient(low='white', high='red', na.value = 'white')
+
+sw <- ggplot(merged[merged$id %in% c('BK81', 'MN13'),], aes(long, lat, group=group)) +
+  geom_polygon(aes(fill = WtNHE)) +
+  scale_fill_gradient(low='white', high='orange', na.value = 'white')
+
+sh <- ggplot(merged[merged$id %in% c('BK81', 'MN13'),], aes(long, lat, group=group)) +
+  geom_polygon(aes(fill = HspE)) +
+  scale_fill_gradient(low='white', high='yellow', na.value = 'white')
+
+sa <- ggplot(merged[merged$id %in% c('BK81', 'MN13'),], aes(long, lat, group=group)) +
+  geom_polygon(aes(fill = AsnNHE)) +
+  scale_fill_gradient(low='white', high='green', na.value = 'white')
+
+grid.arrange(sb, sw, sh, sa, ncol=2)
 
 mean_bl = mean(as.integer(demo$BlNHE), na.rm = T)
+mean_white = mean(as.integer(demo$WtNHE), na.rm = T)
 mean_hisp = mean(as.integer(demo$HspE), na.rm = T)
+mean_asian = mean(as.integer(demo$AsnNHE), na.rm = T)
+
 b_race <- ggplot(bvil, aes(x=reorder(race, -estimate), y=estimate)) + 
   geom_bar(stat='identity', fill='steelblue') +
   geom_hline(aes(yintercept = mean_bl, linetype="city avg"), linetype='dotted') + 
-  geom_hline(aes(yintercept = mean_hisp, linetype="city avg"), linetype='dotted') + 
+  # geom_hline(aes(yintercept = mean_hisp, linetype="city avg"), linetype='dotted') + 
   # geom_text(aes(1, mean_bl,label = "Citywide Average", vjust = -1)) + 
   labs(title = "Brownsvill Population Estimates by Race",
        x = "Race",
        y = "Estimated Population")
-b_race
+
+chels = race.melted[race.melted$id=='MN13',]
+c_race <- ggplot(chels, aes(x=reorder(race, -estimate), y=estimate)) + 
+  geom_bar(stat='identity', fill='steelblue') +
+  geom_hline(aes(yintercept = mean_white, linetype="city avg"), linetype='dotted') + 
+  # geom_hline(aes(yintercept = mean_hisp, linetype="city avg"), linetype='dotted') + 
+  # geom_text(aes(1, mean_bl,label = "Citywide Average", vjust = -1)) + 
+  labs(title = "Chelsea Population Estimates by Race",
+       x = "Race",
+       y = "Estimated Population")
+
+grid.arrange(b_race, c_race, row=2)
 
 # Top 25 African-American Populations
 ordered <- demo[order(demo$BlNHE, decreasing = T),]
@@ -84,3 +115,71 @@ ggplot(head(ordered, 25), aes(x=reorder(GeogName, -BlNHE), y=BlNHE)) +
        x = 'Neighborhood') + 
   theme(axis.text.x = element_text(angle = -60, hjust=0))
 
+# Top 25 Whit Populations
+ordered <- demo[order(demo$WtNHE, decreasing = T),]
+ggplot(head(ordered, 25), aes(x=reorder(GeogName, -WtNHE), y=WtNHE)) + 
+  geom_bar(stat='identity', fill='steelblue') + 
+  labs(title = 'Top 25 Neighborhoods by White Population',
+       y = 'African American Population Estimate',
+       x = 'Neighborhood') + 
+  theme(axis.text.x = element_text(angle = -60, hjust=0))
+
+######### AGE #########
+a <- ggplot(merged, aes(long, lat, group = group)) + 
+  geom_polygon(aes(fill = Pop20t24E)) +
+  labs(title = "Population of 20 to 24 Year-olds by Neighborhood",
+       x = "latitude", y = "Longitude") +
+  scale_fill_gradient(low='white', high='red', na.value = 'white')
+
+b <- ggplot(merged, aes(long, lat, group = group)) + 
+  geom_polygon(aes(fill = Pop25t34E)) +
+  labs(title = "Population of 25 to 34 Year-olds by Neighborhood",
+       x = "latitude", y = "Longitude") +
+  scale_fill_gradient(low='white', high='orange', na.value = 'white')
+
+c <- ggplot(merged, aes(long, lat, group = group)) + 
+  geom_polygon(aes(fill = Pop35t44E)) +
+  labs(title = "Population of 35 to 44 Year-olds by Neighborhood",
+       x = "latitude", y = "Longitude") +
+  scale_fill_gradient(low='white', high='yellow', na.value = 'white')
+
+d <- ggplot(merged, aes(long, lat, group = group)) + 
+  geom_polygon(aes(fill = Pop45t54E)) +
+  labs(title = "Population of 45 to 54 Year-olds by Neighborhood",
+       x = "latitude", y = "Longitude") +
+  scale_fill_gradient(low='white', high='green', na.value = 'white')
+
+e <- ggplot(merged, aes(long, lat, group = group)) + 
+  geom_polygon(aes(fill = Pop55t59E)) +
+  labs(title = "Population of 55 to 59 Year-olds by Neighborhood",
+       x = "latitude", y = "Longitude") +
+  scale_fill_gradient(low='white', high='blue', na.value = 'white')
+
+f <- ggplot(merged, aes(long, lat, group = group)) + 
+  geom_polygon(aes(fill = Pop15t19E)) +
+  labs(title = "Population of 15 to 19 Year-olds by Neighborhood",
+       x = "latitude", y = "Longitude") +
+  scale_fill_gradient(low='white', high='green', na.value = 'white')
+
+grid.arrange(f, a, b, c, d, e, ncols=2)
+
+# Age Distribution
+bv_age = age.melted[age.melted$id=='BK81',]
+b_age <- ggplot(bv_age, aes(x=age, y=estimate)) + 
+  geom_bar(stat='identity', fill='steelblue') +
+  labs(title = "Brownsvill Population Estimates by Age",
+       x = "Age",
+       y = "Estimated Population") +
+  theme(axis.text.x = element_text(angle = -60, hjust=0))
+ 
+
+ch_age = age.melted[age.melted$id=='MN13',]
+c_age <- ggplot(ch_age, aes(x=age, y=estimate)) + 
+  geom_bar(stat='identity', fill='steelblue') +
+  labs(title = "Chelsea Population Estimates by Age",
+       x = "Age",
+       y = "Estimated Population") +
+  theme(axis.text.x = element_text(angle = -60, hjust=0))
+  
+
+grid.arrange(b_age, c_age, ncol=2)
